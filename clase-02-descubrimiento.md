@@ -12,3 +12,4 @@
     - ¿El contexto representa una situación real? Sí.
 - **Límites/Fuera de alcance** Restricciones arancelarias, tipo de cambio. 
 - ¿Marcamos nuestros supuestos como supuestos? Sí.
+- **¿Definimos qué no investigaremos?:** 
