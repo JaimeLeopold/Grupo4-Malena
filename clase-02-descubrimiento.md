@@ -10,5 +10,5 @@
     - La volatilidad del tipo de cambio dificulta calcular el margen de ganancia real al momento de vender.
     - Coordinar los puntos de entrega físicos con los compradores consume tiempo durante el semestre académico.
     - ¿El contexto representa una situación real? Sí.
-- **Límite** No buscaríamos traer ropa cara, buscaríamos algo más asequible para todos los bolsillos.
+- **Límites/Fuera de alcance** Restricciones arancelarias, tipo de cambio. 
 - ¿Marcamos nuestros supuestos como supuestos? Sí.
