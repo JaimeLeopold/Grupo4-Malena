@@ -6,7 +6,7 @@
 - ¿El dominio es suficientemente concreto para investigar? Sí.
 - **Usuario inicial:** Estudiantes de intercambio que traen ropa para revender en el mercado argentino.
 - ¿Podemos reconocer al usuario que describimos? Sí.
-- **Contexto:** Debido a los altos aranceles en Argentina(como la marca zara), sale más económico comprar en España y revender en Argentina.
+- **Contexto/Supuestos iniciales:** Debido a los altos aranceles en Argentina(como la marca zara), sale más económico comprar en España y revender en Argentina.
     - La volatilidad del tipo de cambio dificulta calcular el margen de ganancia real al momento de vender.
     - Coordinar los puntos de entrega físicos con los compradores consume tiempo durante el semestre académico.
     - ¿El contexto representa una situación real? Sí.
