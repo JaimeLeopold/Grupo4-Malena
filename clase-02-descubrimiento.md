@@ -29,7 +29,13 @@ Consecuencia aparente: Parálisis por análisis (no comprar por miedo a ser esta
 Evidencia encontrada: Múltiples grupos en Facebook y foros dedicados a hacer verificaciones de autenticidad pidiendo fotos de etiquetas interiores y costuras antes de comprar.
 
 Fuente original y verificable: Grupos de Facebook, foros en Reddit, etc.
+## 2. Research secundario
 
+### Problemas potenciales
+
+| Problema potencial | Descripción | Usuario afectado | Contexto | Consecuencia aparente | Evidencia encontrada | Fuente |
+|---|---|---|---|---|---|---|
+| **Desconfianza ante réplicas** | Miedo a pagar precios altos por ropa o zapatillas de marca y recibir una falsificación al comprar fuera de tiendas oficiales. | Estudiante argentino que busca ropa de marca. | Al encontrar revendedores en Instagram u otras webs de reventa a precios menores. | Parálisis por análisis (no comprar por miedo) o gastar tiempo pidiendo pruebas. | Múltiples grupos en Facebook y foros dedicados a verificaciones de autenticidad. | Grupos de Facebook, foros en Reddit, etc. |
 Nivel de confianza: Alto. Es un comportamiento muy documentado en el mercado local.
 
 Preguntas que todavía debemos responder: ¿Qué elementos específicos convencen al estudiante de que un producto es original cuando le compra a un particular?
