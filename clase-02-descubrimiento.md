@@ -300,3 +300,24 @@ Es el problema que genera el mayor impacto negativo (bloquea la venta por comple
 
 - **Incertidumbres que permanecen:** 
   Necesitamos validar urgentemente en las entrevistas si el perfil del vendedor mitiga este impacto. Por ejemplo: ¿Saber que el vendedor es un estudiante de intercambio universitario recién llegado de Europa reduce la percepción de estafa frente a un revendedor anónimo de Instagram? ¿Basta con mostrar el ticket en euros y entregar en la universidad para que paguen una seña, o seguirán exigiendo pagar todo contra entrega?
+
+  ## 9. Crítica del problema finalista
+
+**Problema seleccionado:** Miedo a réplicas y estafas por falta de garantías de origen.
+
+- **Debilidades encontradas (Crítica de la IA):**
+  - **Impacto inferido, no demostrado:** Asumimos que la venta se cae por "miedo a la estafa", pero podría caerse simplemente porque el usuario se arrepiente del gasto.
+  - **Confusión entre frecuencia e importancia:** Que la gente pregunte "¿es original?" o pida fotos constantemente es muy frecuente, pero podría ser un comportamiento o un hábito de compra en redes, no necesariamente el factor que "define" si compran o no.
+  - **Sesgo de accesibilidad:** Es posible que estemos priorizando este problema simplemente porque nos resulta muy fácil validarlo en nuestro entorno del campus de la Universidad Austral, descartando otros problemas que son más difíciles de investigar financieramente.
+
+- **Explicaciones alternativas:**
+  - Tratándose de marcas de retail europeo como Zara, el nivel de "estafa" no es el mismo que al comprar zapatillas de lujo. La fricción real podría ser el **sobreprecio** (markup). Los usuarios podrían usar la excusa de "dudar de la originalidad" como una táctica para regatear el precio o ganar tiempo mientras deciden si quieren gastar sus ahorros.
+  - El miedo real no es a que la prenda sea una réplica, sino a transferir dinero (una seña) a un desconocido en Instagram y que este desaparezca y nunca entregue el producto. El problema no es la prenda, es el método de pago por adelantado.
+
+- **Evidencia que podría refutarlo:**
+  - Si en las entrevistas de descubrimiento los estudiantes nos dicen: *"Sí, vi el ticket de compra de España y sé que la ropa es original, pero igual no te voy a transferir una seña por adelantado, prefiero pagar todo en efectivo contra entrega"*. Esto refutaría nuestra hipótesis, demostrando que el problema no es la desconfianza en el origen, sino en la transacción financiera anticipada.
+
+- **Respuesta del equipo:**
+  - **¿Seguimos eligiendo este problema después de intentar refutarlo?** 
+  - **Sí.** Aceptamos la crítica de la IA. Es cierto que pedir seña a desconocidos es un riesgo enorme en Argentina. Sin embargo, creemos que si logramos construir un "escudo de confianza" impecable (mostrando tickets en euros, demostrando que somos estudiantes de intercambio, y fijando las entregas en un entorno seguro y conocido como el patio de la facultad), podemos derribar esa barrera. 
+  - Tomamos la advertencia: en el próximo paso (guion de entrevistas) nos aseguraremos de indagar si el usuario tiene miedo a que el producto sea trucho o si su verdadero terror es enviar plata por adelantado.
