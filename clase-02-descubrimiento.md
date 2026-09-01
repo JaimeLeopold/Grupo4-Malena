@@ -108,4 +108,67 @@ De los problemas detectados en el paso anterior, debemos elegir aquel que repres
 | Supuestos | ¿Qué creemos, pero todavía no comprobamos? | Asumimos que la falta de cuotas reduce el mercado potencial a más de la mitad de los interesados reales. |
 | Evidencia faltante | ¿Qué necesitamos investigar con personas reales? | Qué porcentaje de recargo máximo estarían dispuestos a asumir por el beneficio de pagar en 3 cuotas. |
 
+## 4. Limpieza y agrupación
 
+- **Agrupaciones sugeridas por la IA:**
+  - **Agrupación A: Asimetría de información y Riesgo de Estafa (El problema principal).** 
+    - *Elementos combinados:* "Desconfianza ante posibles réplicas", "Falta de confianza en el vendedor" y "Dificultad para comprobar el estado de la prenda".
+    - *Diferenciación:* 
+      - **Problema real:** El comprador asume todo el riesgo financiero al operar en un mercado sin garantías.
+      - **Síntomas observables:** Pedir múltiples fotos, buscar el ticket original, revisar los seguidores del vendedor y consultar en foros de "Legit Check".
+      - **Consecuencia:** Abandono del carrito o un ciclo de venta extremadamente largo.
+    - *Evidencia:* Patrones de comportamiento en grupos de Facebook y comentarios en Instagram.
+  - **Agrupación B: Aversión a la pérdida por error de talla.**
+    - *Elemento:* "Riesgo al no poder probarse la ropa ni devolverla".
+    - *Diferenciación:*
+      - **Causa:** Falta de políticas de cambio/devolución.
+      - **Síntoma:** Pedir medidas en centímetros exactas por mensaje directo.
+  - **Agrupación C: Barrera de liquidez.**
+    - *Elemento:* "Imposibilidad de pagar en cuotas sin recargos altos".
+    - *Interpretación no comprobada:* Se asume que la falta de cuotas frena compras, pero podría ser simplemente una queja habitual que no detiene a los usuarios con intención real de compra.
+  - **Solución disfrazada detectada:** "Dificultad para coordinar la entrega". La IA señala que esto es un síntoma de un proceso logístico deficiente, no un problema fundamental de necesidad del usuario.
+
+- **Decisiones tomadas por el equipo:**
+  - **Combinar:** Unificaremos todos los problemas de la *Agrupación A* en un único "Super-Problema" de Confianza y Autenticidad. Es la barrera psicológica más fuerte.
+  - **Mantener separados:** El riesgo de talle (*Agrupación B*) y la falta de cuotas (*Agrupación C*) se mantendrán como problemas secundarios a tener en cuenta para futuras iteraciones, pero no serán el foco principal del MVP.
+  - **Descartar:** Descartamos la logística de entrega como problema central a investigar; lo abordaremos directamente en el diseño de la solución.
+
+- **Problemas reformulados o descartados:**
+  - *Problema Reformulado:* En lugar de hablar de "Miedo a las réplicas", el problema se redefine de forma más amplia y accionable como: **"Inseguridad por falta de pruebas de origen y reputación del vendedor en el mercado"**.
+  - *Problema Descartado:* "Dificultad para coordinar la entrega"
+
+- **Contradicciones y datos faltantes:**
+  - *Contradicción identificada en las fuentes:* Los usuarios buscan comprar en el mercado secundario (revendedores) para conseguir precios más bajos que en los shoppings de Argentina, pero al mismo tiempo exigen el mismo nivel de certidumbre, garantías y experiencia que ofrece el retail oficial.
+  - *Datos faltantes:* 
+    1. No sabemos qué peso tiene la falta de cuotas frente al miedo a una réplica (¿Si estuvieran seguros de que es original, conseguirían el efectivo de todas formas?). 
+    2. Necesitamos confirmar si ver una foto del ticket de compra europeo es *realmente* suficiente para que un usuario confíe y pague una seña por adelantado a un estudiante que no conoce.
+   
+## 5. Priorización de problemas con ICE 
+
+**Fórmula utilizada:** `ICE = (Impact × Confidence × Ease) / 100`
+
+### Evaluación de los problemas detectados
+
+#### Problema 1: Miedo a réplicas y estafas
+- **Impact (9):** Impide un objetivo crítico. Si el usuario no confía en la autenticidad de la prenda o en el vendedor, la transacción directamente se cancela por miedo a perder el dinero.
+- **Confidence (7):** Tenemos evidencia diversa, verificable y consistente en grupos de Facebook ("Legit Check Arg"), foros y comentarios de Instagram donde los usuarios exigen constantemente pruebas de origen.
+- **Ease (9):** Al apuntar a un target de estudiantes universitarios, tenemos acceso directo e inmediato para entrevistar u observar a varios compañeros en el campus.
+- **Cálculo ICE:** (9 × 7 × 9) / 100 = **5.67**
+
+#### Problema 2: Riesgo de talla sin posibilidad de prueba o devolución
+- **Impact (7):** Genera consecuencias importantes. La incapacidad de probarse la ropa alarga mucho la decisión y frecuentemente termina en abandono de compra por aversión al riesgo.
+- **Confidence (6):** Existen varias señales coincidentes (consultas pidiendo medidas en centímetros en Marketplace y showrooms).
+- **Ease (9):** Mismo acceso directo a nuestro público objetivo (estudiantes).
+- **Cálculo ICE:** (7 × 6 × 9) / 100 = **3.78**
+
+#### Problema 3: Falta de financiamiento accesible (Falta de cuotas)
+- **Impact (8):** Limita drásticamente la capacidad de compra de los estudiantes, ya que muchos no disponen de liquidez para pagar montos altos en efectivo de una sola vez.
+- **Confidence (5):** Tenemos algunas señales (quejas sobre recargos con tarjeta), pero también existe un fuerte componente de supuesto del equipo sobre qué tan bloqueante es esto frente a la opción de ahorrar y comprar después.
+- **Ease (9):** Mismo acceso a los usuarios para validarlo.
+- **Cálculo ICE:** (8 × 5 × 9) / 100 = **3.60**
+- 
+### Decisión del equipo
+Basado en los resultados de la matriz ICE, **el problema ganador a investigar primero es el Miedo a réplicas y estafas con un puntaje de 5.67**. 
+
+Es el problema que genera el mayor impacto negativo (bloquea la venta por completo) y sobre el cual tenemos mayor nivel de confianza gracias a la investigación secundaria previa. A partir de este momento, enfocaremos las entrevistas de descubrimiento en validar las hipótesis alrededor de esta barrera de confianza.
+   
