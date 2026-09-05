@@ -321,3 +321,196 @@ Es el problema que genera el mayor impacto negativo (bloquea la venta por comple
   - **¿Seguimos eligiendo este problema después de intentar refutarlo?** 
   - **Sí.** Aceptamos la crítica de la IA. Es cierto que pedir seña a desconocidos es un riesgo enorme en Argentina. Sin embargo, creemos que si logramos construir un "escudo de confianza" impecable (mostrando tickets en euros, demostrando que somos estudiantes de intercambio, y fijando las entregas en un entorno seguro y conocido como el patio de la facultad), podemos derribar esa barrera. 
   - Tomamos la advertencia: en el próximo paso (guion de entrevistas) nos aseguraremos de indagar si el usuario tiene miedo a que el producto sea trucho o si su verdadero terror es enviar plata por adelantado.
+ 
+## 10. Decisión humana
+
+Priorizamos este problema porque:
+Resolver la barrera de la confianza es el paso fundacional para que el negocio de reventa exista. Si el usuario desconfía de la autenticidad de la prenda o del vendedor (especialmente al comprar ropa traída de Europa), la transacción no ocurre, independientemente de que el precio sea bueno o la logística sea cómoda. Es el bloqueador principal.
+
+El criterio ICE más sólido es:
+El **Impacto (8/9)** y la **Facilidad (Ease 9)**. Sabemos con certeza que si el cliente no confía, no compra (Impacto alto). También sabemos que podemos validar esto rápida y económicamente porque los usuarios son estudiantes de nuestra propia universidad, a los que tenemos acceso diario.
+
+El criterio ICE más incierto es:
+La **Confianza (Confidence 7)**. Aunque vimos mucha actividad en foros y comentarios de redes exigiendo comprobantes de autenticidad, todavía es un supuesto que esto sea el principal motivo de abandono del carrito, y no otros factores económicos (como quedarse sin presupuesto).
+
+La evidencia más fuerte que tenemos es:
+El comportamiento observable y repetitivo en grupos como "Legit Check Arg" y en DMs de Instagram, donde los usuarios exigen fotos de etiquetas interiores, costuras y tickets de compra antes de comprometerse a pagar.
+
+La principal debilidad de nuestra elección es:
+Estar confundiendo "comportamiento de precaución" con "motivo de rechazo". Es decir, quizás todos preguntan "¿Es original?" como un hábito, pero el verdadero motivo por el que se caen las ventas de reventa en el último minuto es que el cliente no quiere transferir dinero por adelantado a un desconocido.
+
+Podríamos estar equivocados si:
+Descubrimos que, aunque le mostremos al cliente el ticket de compra español, un video en la tienda y entreguemos en la universidad, la venta se cae de todos modos porque el usuario no tiene la liquidez necesaria para pagar el total en un solo pago de contado.
+
+La próxima evidencia que necesitamos obtener es:
+Respuestas directas de usuarios (mediante entrevistas) que nos confirmen qué tipo de comprobante o garantía los haría sentir lo suficientemente seguros como para transferir una seña (por ejemplo, a través de MercadoPago o Revolut) a un vendedor particular antes de tener la prenda en sus manos.
+
+## 11. Problema priorizado
+
+### Puntaje ICE
+
+- **Impact:** 8
+- **Confidence:** 7
+- **Ease:** 9
+- **ICE:** 5.04
+
+### Redacción final
+
+Los estudiantes universitarios argentinos tienen dificultades para comprar indumentaria importada de marca a menor precio cuando intentan concretar transacciones con revendedores informales por redes sociales, debido a la falta de garantías sobre la originalidad de la prenda y la fiabilidad del vendedor. Esto genera el abandono de la compra o un ciclo de venta desgastante donde se exige constantemente evidencia (como fotos de costuras o tickets). Encontramos señales en comunidades de compradores, foros de moda y grupos de Facebook como "Legit Check Arg". Sin embargo, todavía necesitamos comprobar si la principal barrera es el miedo a recibir una falsificación, o si el verdadero terror es el riesgo financiero de transferir una seña por adelantado a un particular desconocido.
+
+### Justificación
+
+Decidimos avanzar con este problema porque representa la barrera principal ("dealbreaker") en el proceso de compra. Independientemente de que el precio sea atractivo o el talle sea el correcto, si el usuario no logra superar la fricción de la desconfianza, la transacción comercial no ocurre. Además, el alto puntaje en "Ease" (9) nos permite avanzar rápidamente hacia la etapa de validación, ya que tenemos acceso directo a nuestro público objetivo dentro de nuestro propio entorno universitario.
+
+## 12. Construcción de personas sintéticas
+
+A partir de la evidencia recopilada sobre nuestro problema priorizado (Inseguridad transaccional), construimos dos perfiles contrastantes: el **experto intensivo** (enfocado en el producto) y el **principiante ocasional** (enfocado en el vendedor).
+
+### Persona Sintética 1: El "Legit Checker" Experto
+
+| Campo | Contenido |
+| :--- | :--- |
+| **Nombre descriptivo** | El "Legit Checker" Experto (Usuario intensivo) |
+| **Contexto** | Estudiante que consume frecuentemente indumentaria de marca y conoce la existencia de réplicas de altísima calidad en el mercado informal. |
+| **Objetivo o progreso buscado** | Conseguir indumentaria 100% original a menor precio que en el retail oficial, asegurando su autenticidad. |
+| **Comportamientos** | Pide de 3 a 5 fotos específicas (etiquetas interiores, costuras, código de artículo). Sube imágenes a foros o grupos de Facebook para que terceros las validen. |
+| **Frustraciones** | El desgaste de tiempo que le genera verificar cada compra y lidiar con vendedores que se ofenden al pedirles el ticket de origen. |
+| **Restricciones** | No concreta la transacción si falta una sola prueba visual o si el ticket de compra no coincide exactamente con la fecha y modelo. |
+| **Alternativas actuales** | Utiliza validadores comunitarios (grupos de FB) o termina pagando el precio completo en la tienda oficial si no logra la certeza absoluta. |
+| **Evidencia que la respalda** | [Evidencia]: Actividad observable en grupos como "Legit Check Arg" y exigencia reiterada de fotos de etiquetas interiores y tickets de España. |
+| **Supuestos incorporados** | [Hipótesis]: Asumimos que su miedo principal es *la calidad del producto* (recibir una réplica) y no necesariamente que el vendedor le robe el dinero y desaparezca. |
+| **Preguntas para personas reales** | ¿Qué comprobante específico (ej. video en la tienda oficial europea) eliminaría por completo tu necesidad de consultar en un foro antes de comprar? |
+
+---
+
+### Persona Sintética 2: El Comprador Primerizo Temeroso
+
+| Campo | Contenido |
+| :--- | :--- |
+| **Nombre descriptivo** | El Comprador Primerizo Temeroso (Usuario ocasional) |
+| **Contexto** | Estudiante con presupuesto ajustado que quiere darse el gusto de comprar una prenda importada (ej. campera Zara) a un precio más accesible a través de Instagram. |
+| **Objetivo o progreso buscado** | Ahorrar dinero en su compra sin caer en una estafa virtual donde pierda sus ahorros. |
+| **Comportamientos** | Revisa compulsivamente la cantidad de seguidores del vendedor, lee todos los comentarios buscando quejas, y duda días antes de enviar el primer mensaje. |
+| **Frustraciones** | Siente mucha ansiedad al momento de tener que enviar una "seña" o pago por adelantado a un CBU de un completo desconocido. |
+| **Restricciones** | No sabe cómo distinguir una prenda original de una réplica por foto. Su presupuesto no le permite asumir el riesgo de perder el dinero de la seña. |
+| **Alternativas actuales** | Le pide a amigos o familiares que viajan al exterior que le traigan la ropa, o directamente abandona el carrito de compra. |
+| **Evidencia que la respalda** | [Evidencia]: Compradores revisando comentarios, seguidores y experiencias anteriores; parálisis por análisis y abandono de compra. |
+| **Supuestos incorporados** | [Hipótesis]: Asumimos que su miedo principal es *la estafa financiera* (que el vendedor lo bloquee tras recibir la transferencia), más que el hecho de que la prenda sea una réplica. |
+| **Preguntas para personas reales** | Si el vendedor fuera un alumno de tu misma facultad y el intercambio (pago/entrega) se hiciera en el patio del campus, ¿estarías dispuesto a dejar una seña del 15% por adelantado? |
+
+
+
+## 13. Entrevista a una persona sintética 
+
+A continuación, simulamos la entrevista con nuestra **Persona Sintética 1 (El "Legit Checker" Experto)** utilizando el prompt sugerido.
+
+### Transcripción de la entrevista simulada
+
+**Entrevistador:** Contame la última vez que viste una prenda en reventa y dudaste. ¿Qué intentabas lograr?
+**Persona Sintética:** Intentaba conseguir indumentaria 100% original a menor precio que en el retail oficial, asegurando su autenticidad.
+
+**Entrevistador:** ¿Qué hiciste para resolver tu duda sobre si era original?
+**Persona Sintética:** Pedí fotos específicas de las etiquetas interiores, detalles de las costuras y el código de artículo. Además, busqué el ticket de compra original de España. Después, subí esas fotos a grupos de Facebook como "Legit Check Arg" para que otros las validaran.
+
+**Entrevistador:** ¿Qué fue lo más difícil de todo ese proceso?
+**Persona Sintética:** Esto todavía debe validarse con una persona real. *(Nota: Sabemos que le frustra el tiempo y los vendedores ofendidos, pero no tenemos evidencia de qué es exactamente "lo más difícil" en la experiencia vívida).*
+
+**Entrevistador:** ¿Qué consecuencia tuvo dudar de la prenda?
+**Persona Sintética:** Un gran desgaste de tiempo. Como faltaba una prueba visual exacta y el ticket de compra no coincidía exactamente con el modelo, no concreté la transacción. 
+
+**Entrevistador:** ¿Qué alternativa utilizás actualmente cuando pasa esto?
+**Persona Sintética:** Termino utilizando los validadores comunitarios, o directamente abandono la compra y termino pagando el precio completo en la tienda oficial porque no logro la certeza absoluta.
+
+**Entrevistador:** ¿Por qué esa alternativa de ir a la tienda oficial no te alcanza o no te sirve siempre?
+**Persona Sintética:** Esto todavía debe validarse con una persona real. *(Nota: Inferimos que es por falta de presupuesto o porque buscan modelos que no llegan a Argentina, pero la evidencia recolectada hasta ahora no lo especifica claramente).*
+
+---
+
+### Registro del observador
+
+- **Nuevas hipótesis:** 
+  El usuario valora su tiempo. Aunque su objetivo inicial es ahorrar dinero, la fricción de pedir fotos, lidiar con vendedores que se ofenden y esperar la validación de foros es tan alta que muchas veces termina rindiéndose y comprando al precio oficial. El "ahorro" pierde sentido frente al esfuerzo que requiere.
+- **Contradicciones detectadas:** 
+  Busca el mercado informal para pagar menos, pero exige el mismo nivel de garantías, comprobantes y seguridad que le daría el retail oficial (que cobra más caro justamente por brindar esas garantías).
+- **Preguntas que conviene mejorar:** 
+  La pregunta "¿Qué fue lo más difícil?" es muy vaga para este contexto. Para las entrevistas reales, conviene cambiarla por: *"¿Cuánto tiempo y cuántos mensajes te tomó la última vez intentar comprobar que la prenda no era una réplica?"*
+- **Afirmaciones sin respaldo:** 
+  Asumimos que el vendedor "se ofende", pero no tenemos evidencia directa de las respuestas de los vendedores, solo la percepción del comprador. 
+- **Respuestas que deben validarse con personas reales:** 
+  1. Cuál es el punto exacto de quiebre (el momento más difícil) donde deciden abandonar la compra.
+  2. Cuál es el motivo real por el que las alternativas (como ir al shopping en Argentina) no les alcanzan (¿Es netamente precio? ¿Es variedad de stock? ¿Es estatus?).
+ 
+
+## 9. Personas sintéticas y entrevistas
+
+### Persona sintética 1: El "Legit Checker" Experto
+
+- **Contexto:** Estudiante que consume frecuentemente indumentaria de marca y conoce la existencia de réplicas de altísima calidad en el mercado informal.
+- **Objetivo o progreso buscado:** Conseguir indumentaria 100% original a menor precio que en el retail oficial, asegurando su autenticidad.
+- **Comportamientos:** Pide de 3 a 5 fotos específicas (etiquetas interiores, costuras, código de artículo). Sube imágenes a foros o grupos de Facebook para que terceros las validen.
+- **Frustraciones:** El desgaste de tiempo que le genera verificar cada compra y lidiar con vendedores que se ofenden al pedirles el ticket de origen.
+- **Restricciones:** No concreta la transacción si falta una sola prueba visual o si el ticket de compra no coincide exactamente.
+- **Alternativas actuales:** Utiliza validadores comunitarios (grupos de FB) o termina pagando el precio completo en la tienda oficial.
+- **Evidencia que la respalda:** Actividad observable en grupos como "Legit Check Arg" y exigencia reiterada de fotos de etiquetas.
+- **Supuestos incorporados:** Asumimos que su miedo principal es *la calidad del producto* (recibir una réplica) y no necesariamente que el vendedor desaparezca con la plata.
+- **Preguntas para personas reales:** ¿Qué comprobante específico eliminaría por completo tu necesidad de consultar en un foro antes de comprar?
+
+### Persona sintética 2: El Comprador Primerizo Temeroso
+
+- **Contexto:** Estudiante con presupuesto ajustado que quiere comprar una prenda importada a un precio más accesible a través de Instagram.
+- **Objetivo o progreso buscado:** Ahorrar dinero en su compra sin caer en una estafa virtual donde pierda sus ahorros.
+- **Comportamientos:** Revisa compulsivamente la cantidad de seguidores del vendedor, lee todos los comentarios buscando quejas, y duda días antes de enviar el primer mensaje.
+- **Frustraciones:** Siente mucha ansiedad al momento de tener que enviar una "seña" o pago por adelantado a un CBU desconocido.
+- **Restricciones:** No sabe cómo distinguir una prenda original de una réplica por foto. Su presupuesto no le permite asumir riesgos.
+- **Alternativas actuales:** Le pide a conocidos que viajan al exterior que le traigan la ropa, o directamente abandona la compra.
+- **Evidencia que la respalda:** Compradores revisando comentarios y experiencias; parálisis por análisis y carritos abandonados.
+- **Supuestos incorporados:** Asumimos que su miedo principal es *la estafa financiera* (transferir y ser bloqueado), más que el hecho de que la prenda sea una réplica.
+- **Preguntas para personas reales:** Si el vendedor te propone entregar en un lugar público y seguro, ¿cambia tu disposición a transferir una seña?
+
+### Aprendizajes del role-play
+
+- **Nuevas hipótesis:** El usuario valora mucho su tiempo; la fricción de pedir fotos y esperar validaciones externas es tan alta que a veces anula el beneficio de pagar menos, llevándolo a abandonar la compra informal.
+- **Contradicciones detectadas:** El usuario busca el mercado informal para ahorrar, pero exige el mismo nivel de garantías y seguridad que el retail oficial.
+- **Afirmaciones sin respaldo:** Asumimos que "los vendedores se ofenden" cuando se les piden pruebas, pero solo tenemos la perspectiva del comprador.
+- **Respuestas que deben validarse:** Necesitamos descubrir en qué momento exacto de la interacción (el punto de quiebre) el usuario decide definitivamente abandonar la compra.
+
+### Guion de entrevista real
+
+1. Contame sobre la última vez que le compraste, o intentaste comprarle, ropa importada a un revendedor por Instagram u otra red social.
+2. ¿Cómo fue el paso a paso desde que viste la prenda publicada hasta que tomaste la decisión de avanzar o frenar la compra?
+3. En ese momento, antes de confirmar, ¿cuál fue tu principal duda o preocupación?
+4. ¿Qué hiciste exactamente para intentar resolver esa duda por tu cuenta?
+5. ¿Qué le pediste o qué le preguntaste al vendedor en esa ocasión? 
+6. ¿Qué información o respuesta te dio el vendedor? ¿Cómo te hizo sentir eso?
+7. ¿Cómo acordaron manejar el tema del pago y la entrega esa vez?
+8. Recordando el momento exacto en el que tenías que hacer la transferencia o pagar, ¿qué pasó por tu cabeza?
+9. Si al final decidiste no comprar, ¿qué terminaste haciendo para conseguir ropa de ese estilo?
+
+### Plan de entrevistas
+
+| Decisión | Definición del equipo |
+| :--- | :--- |
+| **Perfil de entrevistados** | Estudiantes universitarios argentinos que hayan comprado o intentado comprar ropa importada a revendedores en los últimos 6 meses. |
+| **Cantidad mínima** | 4 personas (una por cada integrante del equipo). |
+| **Forma de contacto** | Mensaje directo por WhatsApp o intercepción presencial en el patio y pasillos de la facultad. |
+| **Responsable de entrevistar** | 2 integrantes asumirán el rol principal de conducción (rotativo). |
+| **Responsable de registrar** | 2 integrantes tomarán notas en vivo y registrarán las citas textuales (rotativo). |
+| **Evidencia que se recopilará** | Notas escritas, citas textuales sobre el momento de mayor fricción y validación de si el bloqueo principal es el miedo a la réplica o el miedo a la transferencia por adelantado. |
+
+
+## 15. Revisar y entregar
+
+### Cierre del equipo
+
+**El problema que decidimos investigar es:**
+La inseguridad transaccional que experimentan los estudiantes universitarios (miedo a estafas o a recibir réplicas) al intentar comprar indumentaria importada a revendedores informales por redes sociales.
+
+**La evidencia más fuerte que encontramos es:**
+El comportamiento repetitivo y observable en grupos de Facebook como "Legit Check Arg" y comentarios de Instagram, donde los usuarios exigen constantemente fotos de costuras, etiquetas interiores y tickets de compra europeos antes de comprometerse a pagar.
+
+**El supuesto más riesgoso es:**
+Asumir que si demostramos que la prenda es 100% original (mostrando el ticket de España) el usuario confiará inmediatamente, ignorando que el verdadero terror podría ser el riesgo financiero de transferir dinero por adelantado (seña) a un particular desconocido, sin importar cuán original sea la ropa.
+
+**La pregunta más importante para los usuarios reales es:**
+Recordando el momento exacto en el que tenías que hacer la transferencia o pagarle por adelantado a un revendedor, ¿qué pasó por tu cabeza y cuál fue el factor definitivo que te hizo avanzar o cancelar la compra?
+| **Fecha límite** | Antes de la Clase 3. |
