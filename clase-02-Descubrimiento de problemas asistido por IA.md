@@ -16,22 +16,41 @@
     - ¿Definimos qué no investigaremos?: Tampoco estudiaremos aspectos legales o fiscales relacionados con la reventa.
  
   PASO 2
-  Problema 1: Desconfianza ante réplicas
-
-Descripción del problema: Miedo a pagar precios altos por ropa o zapatillas de marca y recibir una falsificación al comprar fuera de las tiendas oficiales.
-
-Usuario afectado: Estudiante argentino que busca ropa de marca.
-
-Contexto en el que ocurre: Al encontrar revendedores en Instagram, o otras webs de reventa que ofrecen marcas importadas a precios menores que los oficiales.
-
-Consecuencia aparente: Parálisis por análisis (no comprar por miedo a ser estafado) o gastar tiempo pidiendo pruebas de autenticidad.
-
-Evidencia encontrada: Múltiples grupos en Facebook y foros dedicados a hacer verificaciones de autenticidad pidiendo fotos de etiquetas interiores y costuras antes de comprar.
-
-Fuente original y verificable: Grupos de Facebook, foros en Reddit, etc.
 ## 2. Research secundario
 
 ### Problemas potenciales
+### Problemas potenciales (research secundario complementario — fuentes oficiales AR)
+
+| Problema potencial | Usuario | Contexto | Evidencia | Fuente | Hecho, interpretación o supuesto | Preguntas pendientes |
+|---|---|---|---|---|---|---|
+| **Estafas por productos que nunca llegan tras el pago** | Compradores por Instagram en Argentina | Pago por adelantado a un vendedor desconocido | UFECI reportó un aumento de casos de compradores que pagan y nunca reciben el producto (dic 2024–ene 2025); caso documentado de vendedor que cobró y desapareció | [El Independiente](https://www.elindependiente.com.ar/pagina.php?id=362932), [Diario de Cuyo](https://diariodecuyo.com.ar/policiales/Detuvieron-a-un-bailarin-de-Tini-acusado-de-realizar-estafas-reiteradas-20230104-0004.html) | Hecho general (existencia del fraude); interpretación aplicarlo al nicho de ropa importada | ¿Qué % de estas estafas ocurre en indumentaria vs. otros rubros? |
+| **Dificultad para distinguir vendedores falsos de reales** | Compradores en Instagram | Antes de contactar/pagar a un perfil desconocido | Más del 50% de fraudes reportados a BA-CSIRT en 2024 vinculados a Instagram; señales de alerta (seguidores comprados, imágenes robadas, cambios de usuario) | [Buenos Aires Ciudad](https://buenosaires.gob.ar/noticias/vas-comprar-por-instagram-cuidado-con-las-estafas), [Ámbito](https://www.ambito.com/tecnologia/tiendas-falsas-instagram-como-detectar-una-las-estafas-que-crece-argentina-n6172376) | Hecho | ¿Los estudiantes aplican estas verificaciones o confían más por ser conocidos del entorno universitario? |
+| **Dificultad para reclamar/recuperar dinero tras estafa** | Compradores estafados | Pago por transferencia bancaria directa | Reclamo debe hacerse directo al banco del vendedor; denuncias de fraude en compraventa pasaron de 603 a 5200/año | [La Nación](https://www.lanacion.com.ar/economia/negocios/compras-por-redes-sociales-las-estafas-crecieron-casi-nueve-veces-en-un-ano-y-ponen-en-alerta-a-los-nid07022022/) | Hecho (dato de 2022, no desagregado por rubro) | ¿Existe dato más reciente y específico? |
+| **Mercado de servicios de verificación de autenticidad** | Compradores/revendedores de indumentaria de marca (mercado global) | Antes de comprar reventa sin poder probar la prenda | Foros de expertos voluntarios y servicios pagos (10–30 €) de autenticación; apps con IA que analizan costuras y etiquetas | [Limited Resell](https://limitedresell.com/es/blog/post/como-evitar-productos-falsificados-en-el-mercado-de-reventa-una-guia-de-autenticacion/), [Legit Check App](https://play.google.com/store/apps/details/Legit_Check?id=com.legitcheck&hl=es_US) | Hecho (mercado global); supuesto que aplique igual al circuito España-Argentina | ¿Los estudiantes conocen/usan este tipo de servicios o resuelven todo de forma informal? |
+| **Confianza limitada en los propios servicios de autenticación pagos** | Usuarios que ya pagaron por verificación externa | Al usar un servicio de terceros para autenticar | Reseñas reportan veredictos de autenticidad incorrectos pese a errores evidentes en la prenda | [Trustpilot](https://ca.trustpilot.com/review/legitcheck.app) | Interpretación (reseñas individuales, no patrón comprobado) | ¿Los estudiantes argentinos usan o descartan estos servicios? |
+
+### Fuentes consultadas
+
+- [UFECI vía El Independiente](https://www.elindependiente.com.ar/pagina.php?id=362932): aumento de estafas por productos que nunca llegan (Instagram, dic 2024–ene 2025).
+- [Diario de Cuyo](https://diariodecuyo.com.ar/policiales/Detuvieron-a-un-bailarin-de-Tini-acusado-de-realizar-estafas-reiteradas-20230104-0004.html): caso real de estafa por venta en Instagram con transferencia previa.
+- [Buenos Aires Ciudad – BA-CSIRT](https://buenosaires.gob.ar/noticias/vas-comprar-por-instagram-cuidado-con-las-estafas): más del 50% de fraudes reportados vinculados a Instagram.
+- [Ámbito Financiero](https://www.ambito.com/tecnologia/tiendas-falsas-instagram-como-detectar-una-las-estafas-que-crece-argentina-n6172376): señales para detectar tiendas falsas en Instagram.
+- [La Nación](https://www.lanacion.com.ar/economia/negocios/compras-por-redes-sociales-las-estafas-crecieron-casi-nueve-veces-en-un-ano-y-ponen-en-alerta-a-los-nid07022022/): dificultad de reclamo cuando el pago es por transferencia bancaria.
+- [Limited Resell](https://limitedresell.com/es/blog/post/como-evitar-productos-falsificados-en-el-mercado-de-reventa-una-guia-de-autenticacion/): mercado de servicios de autenticación de indumentaria/sneakers.
+- [Legit Check – Google Play](https://play.google.com/store/apps/details/Legit_Check?id=com.legitcheck&hl=es_US): app de verificación de autenticidad con IA.
+- [Trustpilot – Legit Check By Ch](https://ca.trustpilot.com/review/legitcheck.app): reseñas sobre fallos en servicios de autenticación pagos.
+
+### Dudas y contradicciones
+
+- Ninguna fuente encontrada habla específicamente del circuito "estudiante trae ropa de España para revender en Argentina"; toda la evidencia es del problema más amplio (estafas en reventa por redes sociales en general).
+- Las fuentes oficiales (UFECI, BA-CSIRT, La Nación) ponen el foco en el **riesgo de la transferencia irreversible**, más que en el miedo a recibir una réplica, lo que refuerza la hipótesis alternativa planteada en la Crítica del Paso 9.
+
+
+
+
+
+
+
 
 | Problema potencial | Usuario | Contexto | Evidencia | Fuente | Hecho, interpretación o supuesto | Preguntas pendientes |
 |---|---|---|---|---|---|---|
