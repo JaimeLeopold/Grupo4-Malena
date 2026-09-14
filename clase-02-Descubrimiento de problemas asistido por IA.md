@@ -14,8 +14,7 @@
     - ¿Marcamos nuestros supuestos como supuestos? Sí.
 - **Límites/Fuera de alcance:** Restricciones arancelarias, tipo de cambio. 
     - ¿Definimos qué no investigaremos?: Tampoco estudiaremos aspectos legales o fiscales relacionados con la reventa.
- 
-  PASO 2
+
 ## 2. Research secundario
 
 ### Problemas potenciales
@@ -45,28 +44,13 @@
 - Ninguna fuente encontrada habla específicamente del circuito "estudiante trae ropa de España para revender en Argentina"; toda la evidencia es del problema más amplio (estafas en reventa por redes sociales en general).
 - Las fuentes oficiales (UFECI, BA-CSIRT, La Nación) ponen el foco en el **riesgo de la transferencia irreversible**, más que en el miedo a recibir una réplica, lo que refuerza la hipótesis alternativa planteada en la Crítica del Paso 9.
 
-
-
-
-
-
-
-
-| Problema potencial | Usuario | Contexto | Evidencia | Fuente | Hecho, interpretación o supuesto | Preguntas pendientes |
-|---|---|---|---|---|---|---|
-| **Desconfianza ante posibles réplicas** | Estudiante argentino que busca ropa de marca. | Al contactar a revendedores informales o estudiantes de intercambio por Instagram para comprar. | Compradores exigiendo fotos de etiquetas interiores, tickets de compra de origen (ej. España) y detalles de costuras. | Grupos de Facebook ("Legit Check Arg") y foros de moda. | **Hecho** (el comportamiento de verificación existe y es observable). | ¿Qué elementos específicos generan confianza inmediata en un vendedor particular? |
-| **Imposibilidad de pagar en cuotas sin recargos altos** | Estudiante argentino sin gran liquidez en efectivo. | Al intentar comprar una prenda importada a un revendedor independiente que prioriza el efectivo o transferencias. | Quejas frecuentes en comentarios sobre la falta de financiamiento o el recargo abusivo al querer usar tarjeta de crédito. | Comentarios en publicaciones de showrooms en Instagram. | **Interpretación** (asumimos que la falta de cuotas frena muchas ventas de alto valor). | ¿Cuánto recargo están dispuestos a asumir con tal de poder financiar una prenda exclusiva? |
-| **Riesgo al no poder probarse la ropa ni devolverla** | Estudiante argentino interesado en indumentaria importada. | Al comprar mercadería traída del exterior a un particular, sabiendo que no hay políticas de cambio o devolución. | Consultas constantes sobre las medidas exactas en centímetros de las prendas (ej. ancho de hombros) por miedo a equivocarse de talle. | Interacciones en Facebook Marketplace y mensajes directos. | **Supuesto** (creemos que el miedo a equivocarse de talle es una fricción principal para no concretar la compra). | ¿Prefieren arriesgarse con el talle para ahorrar dinero o prefieren ir a la tienda oficial aunque sea más caro? |
-| **Falta de confianza en el vendedor** | Estudiante argentino. | Compra a una persona particular que encuentra en Instagram u otra plataforma. | Los compradores suelen revisar comentarios, seguidores, publicaciones y experiencias anteriores. | Instagram, Facebook, Reddit | **Hecho:** los compradores buscan referencias antes de comprar. **Supuesto:** la falta de información sobre el vendedor puede generar desconfianza. | ¿Qué señales hacen que un comprador considere fiable a un vendedor? |
-| **Dificultad para comprobar el estado de la prenda** | Estudiante argentino. | Compra mediante fotos y mensajes sin poder ver físicamente el producto. | Las publicaciones pueden mostrar un número limitado de fotografías. | Instagram, Facebook, Mercado Libre | **Hecho:** el comprador recibe información principalmente mediante imágenes. **Supuesto:** las fotos pueden no ser suficientes para evaluar el producto. | ¿Qué información o fotografías necesita el comprador antes de comprar? |
-| **Dificultad paracoordinar la entrega** | Estudiante argentino. | La compra requiere acordar un lugar y horario con el vendedor. | Los compradores y vendedores deben coordinarse mediante mensajes. | Instagram, WhatsApp, Facebook | **Hecho:** la entrega requiere coordinación. **Interpretación:** esto puede generar inconvenientes de tiempo. | ¿Qué tipo de entrega resulta más cómoda para los estudiantes? |
 ## 3. Priorización del problema
 
 De los problemas detectados en el paso anterior, debemos elegir aquel que represente la mayor fricción para la transacción y sobre el cual tengamos capacidad de actuar. 
 
 ## 3. Priorización del problema (Fichas de investigación)
 
-### Problema 1: Desconfianza ante posibles réplicas y falta de confianza en el vendedor
+### Problema A: Desconfianza ante posibles réplicas y falta de confianza en el vendedor
 
 | Campo | Pregunta | Respuesta |
 | :--- | :--- | :--- |
@@ -87,7 +71,7 @@ De los problemas detectados en el paso anterior, debemos elegir aquel que repres
 
 ---
 
-### Problema 2: Riesgo de equivocarse de talla sin la posibilidad de una prueba o devolución
+### Problema B: Riesgo de equivocarse de talla sin la posibilidad de una prueba o devolución
 
 | Campo | Pregunta | Respuesta |
 | :--- | :--- | :--- |
@@ -108,7 +92,7 @@ De los problemas detectados en el paso anterior, debemos elegir aquel que repres
 
 ---
 
-### Problema 3: Falta de financiamiento accesible (cuotas sin interés)
+### Problema C: Falta de financiamiento accesible (cuotas sin interés)
 
 | Campo | Pregunta | Respuesta |
 | :--- | :--- | :--- |
@@ -185,7 +169,7 @@ De los problemas detectados en el paso anterior, debemos elegir aquel que repres
 - **Confidence (5):** Tenemos algunas señales (quejas sobre recargos con tarjeta), pero también existe un fuerte componente de supuesto del equipo sobre qué tan bloqueante es esto frente a la opción de ahorrar y comprar después.
 - **Ease (9):** Mismo acceso a los usuarios para validarlo.
 - **Cálculo ICE:** (8 × 5 × 9) / 100 = **3.60**
-- 
+  
 ### Decisión del equipo
 Basado en los resultados de la matriz ICE, **el problema ganador a investigar primero es el Miedo a réplicas y estafas con un puntaje de 5.67**. 
 
@@ -227,81 +211,90 @@ Es el problema que genera el mayor impacto negativo (bloquea la venta por comple
 
 ## 7. Evaluación ICE con IA
 
+## 7. Evaluación ICE con IA (ronda 2 — con evidencia complementaria)
+
 ### Evaluación Detallada
 
-#### Problema A: Desconfianza ante posibles réplicas
+#### Problema A: Desconfianza ante posibles réplicas y falta de confianza en el vendedor
 - **Impact (8)**
-  1. **Justificación:** El problema genera parálisis por análisis y desgaste de tiempo, impidiendo un objetivo crítico (completar la transacción con seguridad).
-  2. **Evidencia:** La ficha menciona "abandono de la compra o desgaste de tiempo pidiendo múltiples comprobantes".
-  3. **Inferencia:** Infiero que la cantidad de fricción generada por pedir pruebas es tan alta que es el principal motivo de abandono, más allá del precio de la prenda.
-  4. **Información faltante:** La tasa real de abandono de compra que ocurre *específicamente* por miedo a estafas frente a otros factores.
-  5. **Hallazgo que cambiaría el puntaje:** Si las entrevistas revelan que los usuarios, a pesar del miedo, terminan comprando igual asumiendo el riesgo, el impacto se reduciría a 5.
-- **Confidence (7)**
-  1. **Justificación:** Existe evidencia diversa, verificable y consistente sobre este comportamiento.
-  2. **Evidencia:** Existencia de grupos dedicados como "Legit Check Arg", foros de moda, y revisión activa de seguidores/comentarios.
-  3. **Inferencia:** Ninguna en este punto; la existencia de los foros de verificación es un hecho respaldado.
-  4. **Información faltante:** Cuántas de estas consultas en foros corresponden a compras que efectivamente se iban a realizar (intención de compra real vs. curiosidad).
-  5. **Hallazgo que cambiaría el puntaje:** Si al hablar con revendedores nos confirman que el 90% de sus clientes les exigen el ticket de origen para transferir, el puntaje subiría a 9.
+  1. **Justificación:** El problema combina dos tipos de daño: la fricción de verificar autenticidad (réplica) y el riesgo de pérdida total e irreversible del dinero (estafa financiera). Este segundo componente, según la evidencia complementaria, es más grave que el primero.
+  2. **Evidencia:** Fichas originales (pedidos de fotos de etiquetas, costuras, tickets); UFECI reportó aumento de casos de compradores que pagan y nunca reciben el producto; La Nación documenta que la devolución del dinero se vuelve "casi imposible" cuando el pago es por transferencia; caso judicial real de un vendedor que cobró y desapareció.
+  3. **Inferencia:** Que ambos componentes (miedo a réplica y miedo a estafa financiera) pesan de forma similar para el usuario; la evidencia complementaria sugiere que en realidad el segundo podría pesar más.
+  4. **Información faltante:** Ningún caso documentado, en ninguna fuente, de un comprador argentino que haya recibido una réplica en este circuito específico. Tampoco hay datos que desagreguen los fraudes de Instagram por rubro (ropa vs. otros productos).
+  5. **Hallazgo que cambiaría el puntaje:** Si las entrevistas muestran que el miedo dominante es la estafa financiera y no la réplica, el impacto se mantendría alto pero cambiaría el enfoque de la redacción del problema. Si ambos miedos resultan poco relevantes en la práctica, el impacto bajaría a 6.
+- **Confidence (6)**
+  1. **Justificación:** Hay evidencia diversa, pero de calidad desigual entre los dos componentes del problema. La parte de "estafa financiera" tiene respaldo de fuentes oficiales (fiscalía, gobierno); la parte de "réplica" solo tiene respaldo de foros y de un mercado de autenticación que es global, no argentino.
+  2. **Evidencia:** BA-CSIRT (más del 50% de fraudes en Instagram en 2024 vinculados a cuentas falsas); UFECI (alerta de crecimiento dic 2024–ene 2025); La Nación (denuncias de 603 a 5200 casos/año, dato de 2022); grupos de Facebook y foros de moda para la parte de réplicas.
+  3. **Inferencia:** Que estos patrones generales de Instagram y del mercado global de reventa se replican igual en el circuito específico de estudiantes que traen ropa de España.
+  4. **Información faltante:** Ninguna fuente argentina confirma réplicas como motivo de fraude en este nicho puntual; tampoco hay un dato de denuncias más reciente que 2022.
+  5. **Hallazgo que cambiaría el puntaje:** Si aparece una fuente argentina que documente casos reales de réplicas en este circuito, o un dato de denuncias más actualizado, subiría a 8. Si las entrevistas contradicen el patrón esperado, bajaría a 4.
 - **Ease (9)**
   1. **Justificación:** El equipo tiene acceso directo e inmediato al perfil buscado.
-  2. **Evidencia:** El segmento objetivo es "estudiante argentino", coincidiendo con el entorno accesible del equipo.
-  3. **Inferencia:** Se asume que estos estudiantes estarán dispuestos a dedicar tiempo para participar en entrevistas.
-  4. **Información faltante:** La tasa de respuesta o voluntad real de los estudiantes para ser entrevistados.
-  5. **Hallazgo que cambiaría el puntaje:** Si el segmento objetivo se muestra reticente a hablar de sus hábitos de compra informal, bajaría a 5.
-- **Cálculo ICE:** (8 × 7 × 9) / 100 = **5.04**
+  2. **Evidencia:** El segmento objetivo (estudiante argentino) coincide con el entorno accesible del equipo; mismo canal (Instagram) que usan las fuentes oficiales para describir el problema.
+  3. **Inferencia:** Se asume que los estudiantes estarán dispuestos a hablar de esto sin reparo.
+  4. **Información faltante:** La tasa de respuesta real de los estudiantes para ser entrevistados sobre este tema.
+  5. **Hallazgo que cambiaría el puntaje:** Si el segmento se muestra reticente a hablar de hábitos de compra informal o de haber sido estafado, bajaría a 6.
+- **Cálculo ICE:** (8 × 6 × 9) / 100 = **4.32**
 
 #### Problema B: Riesgo de talle sin posibilidad de prueba o devolución
 - **Impact (7)**
-  1. **Justificación:** Genera consecuencias importantes (aversión al riesgo), pero los usuarios han desarrollado mecanismos (atajos) para mitigarlo.
-  2. **Evidencia:** La ficha detalla que los usuarios compran un talle más grande, van a medirse a tiendas oficiales o piden medidas en centímetros.
-  3. **Inferencia:** Infiero que hacer "showrooming" (ir a medirse a la tienda oficial) es percibido como una molestia significativa por el usuario.
-  4. **Información faltante:** Qué categorías de prendas (ej. calzado vs. remeras oversize) generan un impacto bloqueante irresoluble.
-  5. **Hallazgo que cambiaría el puntaje:** Si descubrimos que la moda "oversize" actual hace que al usuario no le importe errar por un talle, el impacto caería a 4.
+  1. **Justificación:** Genera consecuencias importantes (aversión al riesgo), pero los usuarios ya desarrollaron mecanismos de mitigación.
+  2. **Evidencia:** Consultas constantes pidiendo medidas en centímetros en DMs de Instagram y Marketplace; usuarios que compran un talle más grande o van a medirse a tiendas oficiales.
+  3. **Inferencia:** Que el "showrooming" (ir a medirse a la tienda oficial) es percibido como una molestia significativa.
+  4. **Información faltante:** Qué categorías de prendas generan un impacto realmente bloqueante; qué porcentaje de ventas se cae después de enviar la tabla de medidas.
+  5. **Hallazgo que cambiaría el puntaje:** Si la moda oversize actual hace que errar el talle importe menos, el impacto bajaría a 4. Si las ventas se caen igual pese a dar medidas exactas, subiría a 8.
 - **Confidence (6)**
-  1. **Justificación:** Hay varias señales coincidentes sobre la fricción.
-  2. **Evidencia:** Consultas constantes sobre medidas en centímetros (ancho, largo, sisa) en DMs de Instagram y Marketplace.
-  3. **Inferencia:** Se infiere que pedir la medida en centímetros indica una duda que bloquea la compra, y no es solo un hábito estándar.
-  4. **Información faltante:** Qué porcentaje de las ventas se caen *después* de que el revendedor envía las medidas en centímetros.
-  5. **Hallazgo que cambiaría el puntaje:** Si el usuario no compra incluso después de recibir la tabla de talles exacta, confirmaría que es una barrera muy alta (subiría a 8).
+  1. **Justificación:** Hay varias señales coincidentes, sin fuente oficial adicional que las respalde.
+  2. **Evidencia:** Consultas repetidas sobre medidas exactas (ancho, largo, sisa) en Marketplace e Instagram.
+  3. **Inferencia:** Que pedir la medida indica una duda que bloquea la compra, no solo un hábito estándar.
+  4. **Información faltante:** No hay ningún dato externo (fuente oficial, estudio) que respalde este problema; toda la evidencia es del research original del equipo.
+  5. **Hallazgo que cambiaría el puntaje:** Si el usuario no compra incluso después de recibir la tabla de talles exacta, subiría a 8.
 - **Ease (9)**
-  1. **Justificación:** Acceso directo a usuarios en el mismo segmento universitario.
-  2. **Evidencia:** Perfil de usuario "estudiante argentino" accesible por el equipo.
-  3. **Inferencia:** Se asume que es fácil identificar específicamente a aquellos que hayan comprado ropa de reventa recientemente.
-  4. **Información faltante:** La facilidad para filtrar dentro del grupo de estudiantes a aquellos que son compradores activos de este nicho.
+  1. **Justificación:** Mismo acceso directo al segmento universitario.
+  2. **Evidencia:** Perfil de usuario accesible por el equipo.
+  3. **Inferencia:** Se asume que es fácil identificar dentro del grupo a quienes compraron ropa de reventa recientemente.
+  4. **Información faltante:** Facilidad real para filtrar compradores activos de este nicho específico.
   5. **Hallazgo que cambiaría el puntaje:** Si toma mucho tiempo encontrar el perfil exacto, bajaría a 6.
 - **Cálculo ICE:** (7 × 6 × 9) / 100 = **3.78**
 
-#### Problema C: Falta de financiamiento accesible (Cuotas)
+#### Problema C: Falta de financiamiento accesible (cuotas sin interés)
 - **Impact (6)**
-  1. **Justificación:** Afecta claramente el progreso (falta de liquidez), pero el mercado de reventa históricamente funciona de contado; el usuario ya tiene cierta predisposición a esto.
-  2. **Evidencia:** Quejas por el precio final financiado y abandono cuando se aplican recargos.
-  3. **Inferencia:** Se asume que el abandono de compra es por *incapacidad* de pago, y no simplemente por indignación ante un recargo considerado injusto.
+  1. **Justificación:** Afecta la liquidez, pero el mercado de reventa entre particulares ya funciona históricamente de contado.
+  2. **Evidencia:** Quejas por el precio final financiado y abandono cuando se aplican recargos con tarjeta.
+  3. **Inferencia:** Que el abandono es por incapacidad real de pago, y no por indignación ante un recargo considerado injusto.
   4. **Información faltante:** Cuántos usuarios ahorran y concretan la compra en efectivo semanas después.
-  5. **Hallazgo que cambiaría el puntaje:** Si descubrimos que el estudiante ahorra y paga de contado de todas formas retrasando la compra un mes, el impacto real en la pérdida de la venta bajaría a 4.
+  5. **Hallazgo que cambiaría el puntaje:** Si el estudiante ahorra y paga de contado igual, el impacto real bajaría a 4.
 - **Confidence (4)**
-  1. **Justificación:** Existen señales indirectas o quejas aisladas, pero falta validación profunda de comportamiento.
-  2. **Evidencia:** Quejas en comentarios de publicaciones de Instagram sobre la falta de financiamiento.
-  3. **Inferencia:** Se infiere que la persona que comenta quejándose en Instagram realmente tenía el poder adquisitivo (y la intención) de comprar la prenda.
-  4. **Información faltante:** Datos duros de abandono de carrito en el momento exacto en que se elige la opción de "tarjeta de crédito".
-  5. **Hallazgo que cambiaría el puntaje:** Si un revendedor comparte sus métricas y demuestra que el 70% de las ventas iniciadas se caen al informar que no hay cuotas sin interés, la confianza subiría a 8.
+  1. **Justificación:** Señales indirectas y aisladas, sin validación profunda de comportamiento.
+  2. **Evidencia:** Quejas en comentarios de publicaciones de Instagram sobre falta de financiamiento.
+  3. **Inferencia:** Que quien comenta quejándose realmente tenía el poder adquisitivo e intención de comprar.
+  4. **Información faltante:** Datos duros de abandono de carrito en el momento exacto de elegir tarjeta de crédito; ninguna fuente oficial ni externa respalda este problema.
+  5. **Hallazgo que cambiaría el puntaje:** Si un revendedor comparte métricas mostrando que la mayoría de ventas se caen por falta de cuotas, subiría a 8.
 - **Ease (9)**
-  1. **Justificación:** Los usuarios objetivo son fácilmente contactables.
-  2. **Evidencia:** Estudiantes universitarios.
-  3. **Inferencia:** Infiero que los entrevistados no tendrán pudor en hablar sobre sus limitaciones económicas (liquidez) con el equipo.
+  1. **Justificación:** Usuarios fácilmente contactables en el entorno universitario.
+  2. **Evidencia:** Perfil de estudiante universitario.
+  3. **Inferencia:** Que los entrevistados no tendrán pudor en hablar de sus limitaciones económicas.
   4. **Información faltante:** Disposición real de los usuarios para hablar transparentemente sobre su presupuesto.
-  5. **Hallazgo que cambiaría el puntaje:** Si el tema resulta ser un tabú y los usuarios mienten sobre sus motivos para no comprar, investigar este problema sería más difícil (bajaría a 5).
+  5. **Hallazgo que cambiaría el puntaje:** Si el tema resulta tabú y los usuarios ocultan sus motivos reales, bajaría a 5.
 - **Cálculo ICE:** (6 × 4 × 9) / 100 = **2.16**
 
----
-
-### Tabla Comparativa de Resultados (Evaluación IA)
+### Tabla Comparativa de Resultados (Evaluación IA — ronda 2)
 
 | Problema | Impact | Confidence | Ease | Puntuación ICE |
 | :--- | :---: | :---: | :---: | :---: |
-| **Problema A (Inseguridad/Estafas)** | 8 | 7 | 9 | **5.04** |
+| **Problema A (Inseguridad/Estafas)** | 8 | 6 | 9 | **4.32** |
 | **Problema B (Talle sin prueba)** | 7 | 6 | 9 | **3.78** |
 | **Problema C (Falta de Cuotas)** | 6 | 4 | 9 | **2.16** |
 
+### Advertencias de la IA sobre información faltante
+
+- No se encontró ninguna fuente que documente estafas específicamente en el circuito de reventa de indumentaria importada por estudiantes; toda la evidencia complementaria es del problema general en Instagram/Argentina.
+- Dentro del Problema A, no hay datos que indiquen si el comprador de este nicho teme más a la réplica o a la estafa financiera; solo hay evidencia de que el segundo componente está mejor documentado por fuentes oficiales.
+- No se sabe si los estudiantes conocen o usan servicios de autenticación tipo "Legit Check", o si resuelven todo de forma informal.
+- El dato de denuncias de fraude en compraventa (La Nación) es de 2022; falta una cifra más reciente.
+- Ninguna fuente oficial consultada segmenta los fraudes por rubro (ropa vs. otros productos) ni por edad del comprador.
+- Los Problemas B y C no tienen evidencia complementaria externa nueva; su Confidence sigue basado únicamente en el research original del equipo.
+- La IA no eligió un problema ganador: el Problema A mantiene el ICE más alto, pero su Confidence bajó respecto a la ronda anterior (de 7 a 6) porque parte de su evidencia interna (réplicas) no está respaldada por fuentes oficiales, mientras que la otra parte (estafa financiera) sí. La decisión de cómo interpretar esta mezcla de evidencia queda en manos del equipo.
 
 ## 8. Comparación de evaluaciones
 
