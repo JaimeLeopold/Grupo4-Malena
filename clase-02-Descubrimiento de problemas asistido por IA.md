@@ -526,3 +526,176 @@ Asumir que si demostramos que la prenda es 100% original (mostrando el ticket de
 **La pregunta más importante para los usuarios reales es:**
 Recordando el momento exacto en el que tenías que hacer la transferencia o pagarle por adelantado a un revendedor, ¿qué pasó por tu cabeza y cuál fue el factor definitivo que te hizo avanzar o cancelar la compra?
 | **Fecha límite** | Antes de la Clase 3. |
+
+**ENTREGABLE CLASE 03 (entrevistas)**
+## Entrevista 1
+
+- **Fecha:** 10/09/2026
+- **Entrevistador/a:** Eric
+- **Perfil de la persona:** Sofía, 21 años, estudiante argentina de Administración. Ha comprado ropa de Zara y otras marcas en España a través de conocidos que viajan.
+- **Contexto de la conversación:** Entrevista realizada de manera presencial en la universidad. La conversación duró aproximadamente 15 minutos.
+
+### Situaciones reales relatadas
+
+- Sofía contó que hace unos meses compró un pantalón de Zara que una amiga había traído de España.
+- Antes de comprarlo, le pidió a su amiga una foto del pantalón puesto y las medidas de cintura y largo porque no podía probárselo.
+- Comparó el precio que le ofrecía su amiga con el precio aproximado de la misma prenda en Argentina.
+- Finalmente compró el pantalón porque la diferencia de precio era importante.
+- Cuando recibió la prenda, el largo era mayor de lo que esperaba. Como no podía devolverla, tuvo que llevarla a una modista para arreglarla.
+
+### Comportamientos y alternativas actuales
+
+- Antes de comprar, busca fotos de la prenda en la página oficial de la marca para comparar el modelo y conocer cómo suele quedar.
+- Pide al vendedor medidas concretas, especialmente cintura, largo y ancho de hombros.
+- Cuando tiene muchas dudas sobre el talle, prefiere directamente no comprar.
+- También compara con prendas que ya tiene de la misma marca para intentar elegir un talle similar.
+- Para el precio, mira la página oficial de la marca y publicaciones de otros vendedores.
+
+### Consecuencias observadas
+
+- La necesidad de pedir medidas y fotos adicionales hizo que la decisión de compra llevara más tiempo.
+- El problema con el largo generó un gasto adicional en el arreglo de la prenda.
+- Sofía explicó que comprar a un particular implica asumir cierto riesgo porque normalmente no existe una política de cambio.
+- A pesar de esto, considera que el ahorro puede compensar el riesgo en determinadas compras.
+
+### Frases relevantes
+
+- "Si no me pasan las medidas, directamente no lo compro."
+- "Prefiero preguntar mil veces antes que equivocarme con el talle."
+- "Por lo que me ahorraba, me pareció que valía la pena arriesgarme."
+
+### Contradicciones con nuestra hipótesis
+
+- La entrevistada no considera que la coordinación de la entrega sea un problema especialmente importante. Para ella, normalmente se puede resolver encontrándose en la universidad.
+- El precio no aparece solamente como una dificultad: también es uno de los principales motivos por los que decide comprar a particulares.
+- El problema del talle sí aparece como una preocupación concreta, pero Sofía ya tiene estrategias para reducir el riesgo, como comparar medidas con prendas que posee.
+
+### Nuevos aprendizajes
+
+- Las medidas exactas tienen un papel importante en la decisión de compra.
+- Los compradores utilizan prendas que ya tienen como referencia para elegir el talle.
+- El ahorro económico puede hacer que el comprador acepte cierto nivel de riesgo.
+- Una mala elección de talle no necesariamente genera el abandono de este tipo de compras, pero sí puede generar costos posteriores.
+
+### Cambios que haríamos a la redacción del problema
+
+- **Redacción anterior:** Riesgo al no poder probarse la ropa ni devolverla.
+- **Nueva redacción propuesta:** Dificultad para evaluar correctamente el talle y el calce de prendas importadas cuando el comprador no puede probarlas antes de comprarlas.
+- **Motivo del cambio:** La entrevista muestra que el problema no es únicamente la imposibilidad de devolver la prenda, sino la incertidumbre que existe antes de realizar la compra.
+
+
+## Entrevista 2
+
+- **Fecha:** 11/09/2026
+- **Entrevistador/a:** Jaime
+- **Perfil de la persona:** Tomás, 22 años, estudiante argentino de Economía. Ha comprado zapatillas y ropa de marcas internacionales a conocidos y vendedores particulares.
+- **Contexto de la conversación:** Entrevista presencial en la universidad. Duración aproximada de 12 minutos.
+
+### Situaciones reales relatadas
+
+- Tomás relató una compra reciente de una campera de una marca internacional que consiguió a través de un compañero que había viajado a España.
+- Antes de comprarla, pidió fotos de la etiqueta, del producto y de las medidas.
+- También buscó el modelo en Internet para comprobar que el precio que le ofrecían fuera razonable.
+- La entrega se realizó en la universidad unos días después.
+- Comentó que en otras ocasiones había preguntado por prendas que finalmente no compró porque el precio no le parecía suficientemente bajo respecto del precio de una tienda.
+
+### Comportamientos y alternativas actuales
+
+- Busca el producto en la página oficial antes de comprar.
+- Compara el precio con otras publicaciones de Marketplace.
+- Pregunta si la prenda es nueva, si conserva las etiquetas y cuándo fue comprada.
+- Para prendas que pueden tener problemas de talle, pide medidas.
+- Si no está seguro de la autenticidad o del estado de la prenda, prefiere no comprar.
+- En ocasiones espera a que aparezca otra publicación antes de decidirse.
+
+### Consecuencias observadas
+
+- El proceso de comparación puede llevar varios días.
+- Tomás ha perdido oportunidades de compra porque otro comprador se adelantó mientras él comprobaba la información.
+- La principal consecuencia que menciona no es el problema del talle, sino la falta de información y confianza respecto del producto.
+- Considera que cuando el precio no es suficientemente atractivo, prefiere comprar en una tienda oficial porque tiene mayor seguridad.
+
+### Frases relevantes
+
+- "Si voy a pagar casi lo mismo, prefiero comprarlo en la tienda."
+- "Primero busco cuánto vale realmente porque a veces te lo venden como una oportunidad y no lo es."
+- "Lo que más me importa es saber que la prenda es original y está en buen estado."
+
+### Contradicciones con nuestra hipótesis
+
+- El entrevistado no considera el talle como su principal preocupación.
+- La confianza en el vendedor y la autenticidad del producto aparecen como problemas más relevantes.
+- La diferencia de precio es importante para justificar el riesgo de comprar a un particular.
+- La coordinación de la entrega prácticamente no representa un problema para él.
+
+### Nuevos aprendizajes
+
+- El comprador no evalúa únicamente el precio absoluto, sino el ahorro respecto de comprar en una tienda oficial.
+- La confianza en el producto y en el vendedor puede ser determinante.
+- Las fotos de etiquetas y detalles del producto funcionan como evidencia para reducir la incertidumbre.
+- Los compradores pueden abandonar una oportunidad si necesitan demasiado tiempo para verificar la información.
+
+### Cambios que haríamos a la redacción del problema
+
+- **Redacción anterior:** Dificultad para evaluar correctamente el talle y el calce de prendas importadas cuando el comprador no puede probarlas antes de comprarlas.
+- **Nueva redacción propuesta:** Incertidumbre al comprar ropa importada a particulares debido a la falta de información verificable sobre el producto, su estado, autenticidad y características.
+- **Motivo del cambio:** La entrevista muestra que el problema puede ser más amplio que el talle y que la confianza en la información proporcionada por el vendedor también afecta la decisión de compra.
+
+
+## Entrevista 3
+
+- **Fecha:** 12/09/2026
+- **Entrevistador/a:** Gabriela
+- **Perfil de la persona:** Valentina, 20 años, estudiante argentina de Comunicación. Ha comprado varias veces ropa de Zara y otras marcas a personas que traen productos desde España.
+- **Contexto de la conversación:** Entrevista realizada por videollamada. Duración aproximada de 15 minutos.
+
+### Situaciones reales relatadas
+
+- Valentina contó que suele comprar ropa importada a través de historias de Instagram de conocidos que viajan.
+- En una compra reciente vio una camisa que le interesaba, pero no estaba segura del talle.
+- Le pidió al vendedor que le enviara las medidas y una foto de cómo quedaba puesta.
+- Comparó esas medidas con una camisa que tenía en su casa antes de confirmar la compra.
+- La entrega se coordinó mediante un punto de encuentro cerca de la universidad.
+- En este caso la compra salió bien, pero contó que anteriormente había recibido una prenda que le quedaba más grande de lo esperado.
+
+### Comportamientos y alternativas actuales
+
+- Utiliza prendas que ya tiene como referencia para comparar medidas.
+- Pide fotos adicionales cuando la publicación no muestra suficiente información.
+- Pregunta directamente al vendedor si el producto tiene algún defecto.
+- Consulta a amigas que conocen la marca cuando no está segura de cómo calza una determinada prenda.
+- Si el vendedor no responde rápidamente o no proporciona suficiente información, busca otra publicación.
+
+### Consecuencias observadas
+
+- Valentina dedica bastante tiempo a comparar medidas antes de comprar.
+- En algunas ocasiones ha dejado de comprar porque el vendedor tardaba demasiado en responder.
+- Cuando una prenda no le queda como esperaba, no suele intentar devolverla porque ya sabe que las compras a particulares generalmente no tienen cambios.
+- Ha terminado revendiendo o regalando prendas que no utilizaba por problemas de talle.
+
+### Frases relevantes
+
+- "Me mido una camisa que ya tengo y comparo con eso."
+- "Si la persona no me responde las medidas, busco otra."
+- "No me molesta tanto no poder devolverla, pero necesito estar bastante segura antes de pagar."
+
+### Contradicciones con nuestra hipótesis
+
+- La entrevistada no percibe la ausencia de devolución como el problema principal, sino como una condición que ya da por asumida.
+- La coordinación de la entrega tampoco representa una dificultad significativa.
+- El principal esfuerzo se concentra antes de realizar la compra, especialmente en conseguir y comparar información.
+- La entrevistada utiliza varias estrategias propias para resolver el problema, por lo que no depende exclusivamente de la información inicial publicada por el vendedor.
+
+### Nuevos aprendizajes
+
+- Los compradores desarrollan métodos propios para reducir la incertidumbre.
+- Comparar las medidas con prendas que ya poseen es una práctica concreta y repetida.
+- La rapidez del vendedor puede influir en la decisión de compra.
+- La falta de información puede provocar que el comprador abandone la publicación y busque otra alternativa.
+- El problema ocurre principalmente durante la etapa previa a la compra.
+
+### Cambios que haríamos a la redacción del problema
+
+- **Redacción anterior:** Incertidumbre al comprar ropa importada a particulares debido a la falta de información verificable sobre el producto.
+- **Nueva redacción propuesta:** Los estudiantes que compran ropa importada a particulares necesitan recopilar y contrastar información sobre las prendas antes de comprar, ya que la información disponible no siempre les permite evaluar con seguridad si el producto se adapta a lo que buscan.
+- **Motivo del cambio:** Las tres entrevistas muestran que el esfuerzo de búsqueda, comparación y verificación aparece de forma recurrente, aunque las preocupaciones específicas pueden variar entre compradores.
