@@ -47,16 +47,12 @@ Todavía necesitamos comprobar si el freno principal es el miedo a recibir una r
 
 | Rol | Definición | Fuente |
 |---|---|---|
-| **Usuario** | Estudiante argentino que busca comprar ropa de marca importada a un revendedor informal (por ejemplo, en Instagram). | Evidencia entrevistas |
-| **Cliente** | El mismo comprador (es quien paga la seña y el saldo). | Evidencia entrevistas |
-| **Decisor** | El propio comprador decide si transfiere o abandona. | Interpretación del equipo en base a las entrevistas |
+| **Usuario, comprador** | Estudiante argentino que busca comprar ropa de marca importada a un revendedor informal (por ejemplo, en Instagram). | Evidencia entrevistas |
+| Usuario vendedor | Revendedor informal (frecuentemente también estudiante) que trae ropa de España | Supuesto — sin entrevistas propias todavía |
+| **Decisor** | Ambas partes deben aceptar usar la herramienta para que la transacción ocurra. El propio comprador decide si transfiere o abandona. | Interpretación del equipo en base a las entrevistas |
 | **Influenciador** | Comunidades de verificación ("Legit Check Arg"), amigos que ya compraron antes, comentarios públicos en las publicaciones. | Evidencia entrevistas |
 | **Rol pendiente** | El revendedor (nuestro propio rol) podría convertirse en cliente si la solución se ofrece como herramienta paga para vendedores; **pendiente de investigación**, no fue objeto de las entrevistas de Clase 2. |
-| Usuario comprador | Estudiante universitario argentino que compra indumentaria importada por Instagram/DM | Evidencia (3 entrevistas) |
-| Usuario vendedor | Revendedor informal (frecuentemente también estudiante) que trae ropa de España | Supuesto — sin entrevistas propias todavía |
-| Cliente | Pendiente de investigación: podría ser comprador, vendedor o ambos, según modelo de comisión | Supuesto |
-| Decisor | Ambas partes deben aceptar usar la herramienta para que la transacción ocurra | Supuesto |
-| Influenciador | Comunidades tipo "Legit Check Arg" que validan autenticidad | Evidencia (Clase 2) |
+| **Cliente** | Pendiente de investigación: podría ser comprador, vendedor o ambos, según modelo de comisión | Supuesto |
 
 ---
 
