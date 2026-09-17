@@ -57,9 +57,9 @@ Todavía necesitamos comprobar si el freno principal es el miedo a recibir una r
 
 ## 4. Necesidades y resultados del usuario
 
-- Cuando tengo que transferir una seña a un revendedor que no conozco antes de recibir la prenda, quiero tener alguna garantía de que mi dinero está protegido, para animarme a concretar la compra sin miedo a perderlo. *(Supuesto — surge del role-play, no de entrevistas reales todavía.)*
-- Cuando encuentro una prenda publicada por un revendedor, quiero confirmar rápido que es original y que el vendedor es serio, para no perder tiempo pidiendo pruebas manualmente en cada conversación. *(Evidencia: comportamiento observado en foros y comentarios de Clase 2.)*
-
+- **Comprador:** Cuando quiero comprar una prenda importada a un revendedor desconocido por Instagram, quiero tener garantías de que si pago la seña voy a recibir el producto tal como se describió, para decidir sin miedo a perder mi dinero.
+- **Vendedor (supuesto):** Cuando negocio la venta de una prenda con un comprador desconocido, quiero tener garantías de que voy a cobrar si entrego el producto, para no arriesgarme a enviarlo sin cobrar.
+  
 Ambas frases describen progreso del usuario, no una herramienta específica, y siguen siendo válidas aunque cambie la solución elegida en la Caja 5.
 
 ---
