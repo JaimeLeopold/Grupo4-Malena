@@ -162,27 +162,7 @@ Lo sabremos si logramos completar al menos un ciclo de compra de prueba de punta
 el miedo a recibir una réplica— el verdadero motivo por el que los
 compradores abandonan la compra antes de pagar la seña?
 ```
-
 ---
-
-## 8. Experimento mínimo
-
-- **Hipótesis que prueba:** Hipótesis de problema.
-- **Objetivo:** determinar si el miedo financiero (transferir sin garantías) pesa más que el miedo a la réplica en el abandono de la compra.
-- **Tipo de experimento:** encuesta dirigida + entrevistas cortas de seguimiento (no se construye ningún prototipo todavía, porque primero hay que confirmar cuál es el problema correcto).
-- **Herramienta:** formulario digital (Google Forms) distribuido por WhatsApp/Instagram, más 2-3 entrevistas cortas de profundización usando el guion ya diseñado en Clase 2.
-- **Participantes:** entre 15 y 20 estudiantes que compraron o intentaron comprar ropa importada a revendedores en los últimos 6 meses (distintos de los ya entrevistados en Clase 2, para no repetir sesgo de muestra).
-- **Duración:** 5 días.
-- **Tarea:** responder una pregunta de elección forzada sobre cuál fue el motivo principal de abandono en su último intento de compra frustrado, y ordenar sus miedos de mayor a menor.
-- **Datos necesarios:** respuestas cuantitativas de la encuesta y comentarios cualitativos abiertos.
-- **Métrica:** porcentaje de encuestados que señalan "miedo a transferir sin garantías" como motivo principal, frente al porcentaje que señala "miedo a la réplica".
-- **Criterio de éxito:** si el 60% o más señala el miedo financiero como motivo principal, se confirma que la solución debe orientarse hacia un mecanismo de pago seguro (Alternativa 2) antes que hacia verificación de autenticidad.
-- **Criterio de fracaso:** si el miedo a la réplica sigue siendo predominante (60% o más), o si el resultado queda empatado sin un patrón claro, se debe replantear la hipótesis de problema y reconsiderar si SeñaSegura es la solución correcta.
-- **Aprendizaje esperado:** cuál de los dos miedos debe ser el foco real del MVP, antes de invertir en construir cualquier flujo de pago.
-- **Limitaciones:** muestra pequeña y no representativa de todo el universo de compradores; sesgo de memoria al preguntar de forma retrospectiva; la encuesta mide intención/percepción declarada, no comportamiento real de pago, por lo que sus resultados solo sirven para decidir hacia dónde apuntar el siguiente experimento (no para validar la solución en sí).
-
----
-
 ## Pre-mortem
 
 **Prompt usado:** el sugerido en la guía, pidiendo a la IA que actúe como crítico de producto digital e imagine el fracaso de la propuesta seis meses después.
@@ -201,6 +181,21 @@ compradores abandonan la compra antes de pagar la seña?
 **Verificación:** los tres riesgos confirman que la hipótesis priorizada en la Caja 7 (Problema) sigue siendo correcta: no tiene sentido resolver la factibilidad o la adopción de SeñaSegura si todavía no sabemos si el miedo financiero es realmente el freno principal.
 
 ---
+## 8. Experimento mínimo
+
+- **Hipótesis que prueba:** Hipótesis de problema.
+- **Objetivo:** determinar si el miedo financiero (transferir sin garantías) pesa más que el miedo a la réplica en el abandono de la compra.
+- **Tipo de experimento:** encuesta dirigida + entrevistas cortas de seguimiento (no se construye ningún prototipo todavía, porque primero hay que confirmar cuál es el problema correcto).
+- **Herramienta:** formulario digital (Google Forms) distribuido por WhatsApp/Instagram, más 2-3 entrevistas cortas de profundización usando el guion ya diseñado en Clase 2.
+- **Participantes:** entre 15 y 20 estudiantes que compraron o intentaron comprar ropa importada a revendedores en los últimos 6 meses (distintos de los ya entrevistados en Clase 2, para no repetir sesgo de muestra).
+- **Duración:** 5 días.
+- **Tarea:** responder una pregunta de elección forzada sobre cuál fue el motivo principal de abandono en su último intento de compra frustrado, y ordenar sus miedos de mayor a menor.
+- **Datos necesarios:** respuestas cuantitativas de la encuesta y comentarios cualitativos abiertos.
+- **Métrica:** porcentaje de encuestados que señalan "miedo a transferir sin garantías" como motivo principal, frente al porcentaje que señala "miedo a la réplica".
+- **Criterio de éxito:** si el 60% o más señala el miedo financiero como motivo principal, se confirma que la solución debe orientarse hacia un mecanismo de pago seguro (Alternativa 2) antes que hacia verificación de autenticidad.
+- **Criterio de fracaso:** si el miedo a la réplica sigue siendo predominante (60% o más), o si el resultado queda empatado sin un patrón claro, se debe replantear la hipótesis de problema y reconsiderar si SeñaSegura es la solución correcta.
+- **Aprendizaje esperado:** cuál de los dos miedos debe ser el foco real del MVP, antes de invertir en construir cualquier flujo de pago.
+- **Limitaciones:** muestra pequeña y no representativa de todo el universo de compradores; sesgo de memoria al preguntar de forma retrospectiva; la encuesta mide intención/percepción declarada, no comportamiento real de pago, por lo que sus resultados solo sirven para decidir hacia dónde apuntar el siguiente experimento (no para validar la solución en sí).
 
 ## Cierre del equipo
 
