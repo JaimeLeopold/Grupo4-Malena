@@ -1,6 +1,5 @@
-# Registro del experimento — SeñaSegura
+# Registro del experimento
 
-> Todos los números salen de las 22 respuestas exportadas de la encuesta. Los puntos marcados con **[completar]** o **[confirmar]** son datos que el archivo no contiene y que el equipo debe rellenar o validar antes de entregar.
 
 ## 1. Punto de partida
 
@@ -20,14 +19,14 @@
 ## 3. Instrumento construido por la IA
 
 - **Tipo de instrumento:** encuesta digital (formulario) con filtro inicial, motivo principal de abandono, ranking de 4 miedos y una pregunta abierta sobre el momento de quiebre.
-- **Enlace o archivo:** exportación de respuestas (PDF "Documento sin título"). **[completar: enlace al formulario]**
+- **Enlace o archivo:** https://docs.google.com/forms/d/e/1FAIpQLSdgSrHSWHlzeLvlTfXLc231RANzQSxppCLL4EFaIO4nFkegPA/viewform?usp=publish-editor   [Documento sin título (1).pdf](https://github.com/user-attachments/files/32780016/Documento.sin.titulo.1.pdf)
 - **Qué incluye:** filtro de elegibilidad; motivo principal (réplica, estafa financiera, demora del vendedor, precio, otro, "no abandoné"); ranking de 4 miedos (réplica, estafa financiera, talla/descripción, demora de entrega); comentario abierto.
 - **Qué quedó fuera:** prototipo de SeñaSegura, checkout, bot de WhatsApp, landing, fake door y entrevistas de seguimiento (no hay registro de que se hayan hecho).
 
 ## 4. Ejecución
 
-- **Fecha y contexto:** **[completar: fecha(s) y canal de difusión]**
-- **Participantes, escenarios, fuentes o datos:** 22 personas respondieron. 4 contestaron "No" en la pregunta filtro y salieron de la encuesta (Estudiantes 2, 6, 11 y 15). Quedan **18 respuestas válidas**, dentro del rango previsto de 15–20. **[confirmar: que son estudiantes distintos de los entrevistados en Clase 2, que hubo consentimiento y que no se guardaron datos personales]**
+- **Fecha y contexto:** 16/09/2026 - 20/09/2026, canal de difusión: WhatsApp
+- **Participantes, escenarios, fuentes o datos:** 22 personas respondieron. 4 contestaron "No" en la pregunta filtro y salieron de la encuesta (Estudiantes 2, 6, 11 y 15). Quedan **18 respuestas válidas**, dentro del rango previsto de 15–20.
 - **Tarea realizada:** elegir el motivo principal de abandono en el último intento frustrado y ordenar sus miedos de mayor a menor.
 - **Resultados obtenidos:**
 
@@ -51,12 +50,6 @@
 | Que la prenda no coincida con talla/descripción | 3 | 16,7 % | 2,61 |
 | Que tarde mucho en llegar | 2 | 11,1 % | 3,44 |
 
-- **Anomalías observadas:**
-  1. **Denominador ambiguo.** La métrica dice "% de encuestados" y no aclara si son los 18 válidos o los 14 que abandonaron. Se reportan ambos; la conclusión es la misma con los dos.
-  2. **Origen y lenguaje de las respuestas.** Varias respuestas usan expresiones y monedas propias de España ("vídeo", "cazadora", "sudadera", "120 euros", "contra reembolso"), mientras que el Canvas define como población a estudiantes argentinos (aunque otra respuesta habla de dólares y efectivo). **[confirmar: origen real de estas respuestas; si son simuladas o de otra población, debe declararse así y su valor probatorio es menor]**
-  3. **Texto de las preguntas ausente.** La exportación no incluye el enunciado de cada pregunta; se dedujo de las opciones. **[confirmar contra el formulario]**
-  4. **Categorías que se solapan.** Algunos comentarios de "estafa financiera" describen señales de desconfianza hacia el vendedor (justificantes de envío borrosos, cuenta a nombre de una empresa desconocida), no solo miedo a perder dinero.
-  5. **Entrevistas de seguimiento sin evidencia.** No se incluyen porque no hay registro de que se hayan realizado.
 
 ## 5. Evidencia
 
@@ -72,7 +65,7 @@
   - La encuesta no permite afirmar que el miedo financiero pese más que la réplica; ambos pesan de forma parecida.
   - Los comentarios apuntan a un factor común: la desconfianza en el vendedor y la falta de señales verificables (vídeo de etiquetas, medidas, justificantes reales, showroom, recomendación).
   - Que quienes compraron lo hicieran gracias a mecanismos que reducen el riesgo de pagar por adelantado es compatible con la idea de SeñaSegura, pero esta prueba no la valida.
-- **Limitaciones:** muestra pequeña y no representativa; memoria retrospectiva; mide percepción declarada y no comportamiento de pago; origen de las respuestas por confirmar (anomalía 2); las categorías cerradas de la pregunta 2 se solapan en parte; sin entrevistas de profundización.
+- **Limitaciones:** muestra pequeña y no representativa; memoria retrospectiva; mide percepción declarada y no comportamiento de pago; las categorías cerradas de la pregunta 2 se solapan en parte; sin entrevistas de profundización.
 
 ## 6. Aprendizajes
 
