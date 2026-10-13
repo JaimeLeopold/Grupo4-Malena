@@ -1,1 +1,287 @@
+# Clase 5 - Experimentos funcionales: construir para medir
 
+## Paso 1 – Reconstruir el aprendizaje anterior
+
+A partir de la evidencia recopilada en las Clases 2, 3 y 4, reconstruimos nuestra base de conocimiento actual:
+
+*   **Cliente / Usuario:** Estudiantes universitarios argentinos que compran ropa importada a particulares/revendedores, buscando ahorrar dinero frente al retail oficial.
+*   **Problema (Actualizado tras evidencia):** La falta de información centralizada y verificable (medidas exactas en centímetros, referencias de calce, fotos de estado real, rapidez del vendedor) genera parálisis y abandono en la compra. 
+*   **Evidencia recopilada:** 
+    *   *Encuesta (Clase 4):* El 50% de los abandonos de carrito se debe a causas operativas ajenas a estafas (el vendedor tardó en responder, dudas con las medidas/talle, condiciones de precio). El miedo puramente financiero (estafa) y el de autenticidad (réplica) empataron, no superando el umbral de éxito del 60%.
+    *   *Entrevistas (Clase 2):* Sofía (21), Tomás (22) y Valentina (20) demostraron que la fricción principal está en *recopilar información antes de pagar*. Comparan medidas con prendas propias, piden fotos puestas y buscan referencias de precio/estado. Si tardan en darles la info, abandonan.
+*   **Contradicciones:** En la Clase 3 diseñamos "SeñaSegura" bajo el supuesto de que el miedo a perder la transferencia era el principal freno. La evidencia demostró que resolver el pago no sirve si el usuario sigue con dudas sobre si la prenda le va a quedar bien o si el vendedor es confiable respondiendo.
+*   **Incertidumbres abiertas:** Si le damos al comprador toda la información verificada de antemano (medidas cruzadas, fotos reales, validación de estado), ¿pagará la seña sin fricciones ni miedos?
+
+---
+
+## Paso 2 – Elegir una pregunta de aprendizaje
+
+Ya que el experimento de la Clase 4 invalidó enfocar todos los esfuerzos únicamente en retener la seña (como un escrow), pivotamos hacia resolver la **barrera de información y confianza inicial**.
+
+*   **Incertidumbre seleccionada:** ¿Estandarizar y enriquecer la información previa a la compra (medidas, fotos, garantías) reduce el ciclo de dudas y aumenta la disposición a pagar la seña a un particular?
+*   **Pregunta de aprendizaje observable:** *¿Los estudiantes están dispuestos a hacer clic en "Pagar seña" de manera directa si se les presenta una "Ficha de Prenda Verificada" (que incluye medidas en cm, video real, estado y badge de vendedor alumno) en lugar de una publicación normal de Instagram?*
+
+---
+
+## Paso 3 – Comparar experimentos
+
+A continuación, se proponen 3 alternativas para probar esta pregunta de aprendizaje con la menor inversión posible.
+
+### Alternativa A: Fake Door - Catálogo en Notion / Landing Page
+*   **Funcionamiento:** Armar una página pública (Notion o Carrd) simulando ser un intermediario de "Vendedores Universitarios Verificados". Cada prenda publicada tiene una ficha exhaustiva: fotos reales, medidas en cm (comparadas vs. talles de Zara), video de estado, e insignia de "Vendedor Alumno Austral". Al final, un botón de "Separar con seña (MercadoPago)".
+*   **Acción del usuario:** El usuario navega la ficha y, si le convence la información, hace clic en "Separar con seña".
+*   **Dato producido:** CTR (Click-Through Rate) del botón de pago sobre el total de visitantes únicos de la ficha.
+*   **Parte real y simulada:** 
+    *   *Real:* La información de la prenda, la interfaz de lectura y el clic de intención.
+    *   *Simulada:* El pago real (Fake Door). Al hacer clic, salta un pop-up: *"Estamos actualizando nuestros medios de pago. Dejanos tu WhatsApp y te contactamos para reservar la prenda"*.
+*   **Tiempo, costo y dificultad:** 1 a 2 días de armado, $0 costo, Dificultad Media.
+*   **Calidad y limitaciones de la evidencia:** Alta calidad para medir la intención pura de pago tras leer la información. Limitación: saca al usuario de su hábitat natural (Instagram) llevándolo a un link externo.
+
+### Alternativa B: A/B Testing manual en Instagram (Concierge)
+*   **Funcionamiento:** Utilizar una cuenta de reventa en Instagram. Subir dos tipos de prendas a las Historias Destacadas. 
+    *   *Tipo 1 (Control):* Publicación normal (foto sacada de internet, talla genérica).
+    *   *Tipo 2 (Verificada):* Publicación con "Sello de Confianza" (foto de la prenda con regla midiendo sisa/largo, video de estado, y texto "Garantía de originalidad").
+*   **Acción del usuario:** El usuario responde a la historia pidiendo el CBU para transferir, o hace preguntas adicionales.
+*   **Dato producido:** Cantidad promedio de mensajes de ida y vuelta (ciclo de venta) antes de que el usuario pida los datos bancarios en las prendas Tipo 1 vs. Tipo 2.
+*   **Parte real y simulada:** 
+    *   *Real:* Todo. Son prendas reales que el equipo puede vender, interactuando con compradores reales.
+    *   *Simulada:* Ninguna (se vende la prenda de verdad).
+*   **Tiempo, costo y dificultad:** 1 semana de medición, $0 costo, Dificultad Baja.
+*   **Calidad y limitaciones de la evidencia:** Mide el comportamiento 100% real en el entorno nativo del usuario. Limitación: puede tomar más tiempo conseguir tráfico orgánico estadísticamente significativo.
+
+### Alternativa C: Chatbot "Wizard of Oz" (Asistente de Confianza)
+*   **Funcionamiento:** En las publicaciones de Instagram, colocar: *"¿Dudas con el talle o si es original? Escribile a nuestro Asistente de Verificación por WhatsApp"*. Detrás de ese número está el equipo (no una IA), respondiendo en menos de 1 minuto enviando un "Dossier en PDF" de la prenda con toda la información súper detallada que busca el usuario.
+*   **Acción del usuario:** Hacer clic en el link de WhatsApp y hacer sus preguntas.
+*   **Dato producido:** Tasa de conversión (% de usuarios que depositan la seña inmediatamente después de recibir el "Dossier de información" del asistente).
+*   **Parte real y simulada:** 
+    *   *Real:* Las interacciones por WhatsApp y las dudas de los usuarios.
+    *   *Simulada:* El comprador cree que es un sistema automatizado/empresa estructurada, pero es el equipo actuando rápido detrás de escena (Wizard of Oz).
+*   **Tiempo, costo y dificultad:** 3-5 días, $0 costo, Dificultad Alta (exige guardia humana constante para responder al instante).
+*   **Calidad y limitaciones de la evidencia:** Genera interacciones cualitativas muy ricas. Limitación: no es escalable y depende enteramente del tiempo libre de los miembros del equipo.
+
+---
+
+### 💡 Decisión humana (Recomendación para el equipo)
+Se recomienda elegir la **Alternativa A (Fake Door en Notion/Landing)**. 
+*   **¿Por qué?:** Porque es la manera más rápida, estandarizada y medible de aislar nuestra variable principal (la presentación de información estructurada). Al contabilizar los clics en el botón de pago (CTR), sabremos inmediatamente si este nivel de información derriba el miedo a pagar una seña, sin tener que esperar días a que fluya una conversación orgánica en Instagram ni tener a los integrantes del equipo atados a responder WhatsApps las 24 horas.
+## Paso 4 – Definir el contrato experimental
+
+Antes de construir, completamos el contrato para alinear el experimento[cite: 6]:
+
+| Campo | Pregunta | Definición del equipo |
+| :--- | :--- | :--- |
+| **Hipótesis** | ¿Qué creemos? | Creemos que estandarizar y presentar información exhaustiva y verificada (medidas exactas, estado real y sellos de confianza) reduce la fricción por desconfianza y aumenta la disposición a pagar una seña por adelantado. |
+| **Aprendizaje** | ¿Qué necesitamos saber? | Si una "Ficha de Prenda Verificada" es suficiente para generar la intención real de pagar la seña sin requerir un largo ida y vuelta de mensajes. |
+| **Participantes o escenarios** | ¿Con quién o con qué probaremos? | Entre 30 y 50 estudiantes universitarios de nuestro entorno a los que se les compartirá el catálogo por WhatsApp o Instagram. |
+| **Acción o resultado** | ¿Qué observaremos? | Observaremos si el usuario hace clic en el botón de acción principal: "Separar con seña (MercadoPago)". |
+| **Métrica** | ¿Qué registraremos? | **CTR (Click-Through Rate):** Porcentaje de visitantes únicos de la página que hacen clic en el botón de pago. |
+| **Criterio** | ¿Qué resultado consideraremos suficiente? | Consideraremos la prueba exitosa si al menos el **15%** de los visitantes únicos hacen clic en el botón de pagar la seña. |
+| **Duración** | ¿Cuándo termina la prueba? | A los 5 días de haber lanzado y difundido el enlace. |
+| **Limitación** | ¿Qué no puede demostrarnos? | No puede demostrarnos si el usuario completaría efectivamente la transacción bancaria (porque es un Fake Door) ni si quedará satisfecho con la prenda al recibirla. Solo mide la intención inicial de pago. |
+
+---
+
+## Paso 5 – Reducir el alcance
+
+Definimos qué entra y qué queda fuera del experimento[cite: 6]:
+
+| Categoría | Significado | Elementos en nuestro experimento |
+| :--- | :--- | :--- |
+| **Imprescindible** | Sin esto no se puede ejecutar o medir. | 1. Landing page pública (ej. Notion o Carrd).<br>2. Al menos 3 prendas publicadas con: fotos reales, medidas en cm comparadas, estado y sello de vendedor universitario.<br>3. Botón claro de "Separar con seña".<br>4. Herramienta de medición (ej. Bitly o analíticas nativas) para medir visitas y clics. |
+| **Simulable** | Puede resolverse manualmente o con datos ficticios. | **El flujo de pago (Fake Door).** El botón de MercadoPago no cobrará dinero; redirigirá a un formulario o pop-up que diga: *"Estamos actualizando nuestra pasarela de pagos. Dejanos tu WhatsApp y te reservamos la prenda manualmente"*. |
+| **Fuera de alcance** | No contribuye al aprendizaje actual. | Integración real con APIs de pago, creación de perfiles de usuario (login/registro), sistema de carrito de compras múltiple y base de datos de inventario automatizada. |
+
+---
+
+## Paso 6 – Construir con IA
+
+Para construir este instrumento minimizando el esfuerzo[cite: 6]:
+*   Utilizaremos IA (como ChatGPT o Claude) para redactar el copy persuasivo de las fichas de producto, asegurándonos de que transmita confianza y detalle las medidas exactas.
+*   Construiremos la interfaz visual armando una página pública y gratuita en Notion.
+*   Generaremos el formulario "Fake Door" de captura de datos (WhatsApp del interesado) utilizando Google Forms o Tally, estructurando las preguntas con asistencia de la IA.
+*   **Verificación del equipo:** Revisaremos que la página no contenga funciones innecesarias, que la navegación de principio a fin sea fluida y que no se soliciten datos personales sensibles más allá del número de contacto para la reserva[cite: 6].
+
+---
+
+## Paso 7 – Realizar el piloto
+
+Antes de lanzar a los usuarios reales[cite: 6]:
+1.  Compartiremos el enlace de Notion internamente con 2 o 3 amigos cercanos de la facultad.
+2.  Les pediremos que naveguen la página desde su celular para detectar problemas de visualización, instrucciones confusas o enlaces rotos.
+3.  Comprobaremos en nuestro panel de métricas que sus visitas y sus clics en el botón de pago se estén registrando correctamente.
+4.  Si hay errores técnicos, repararemos el instrumento, pero **no modificaremos la hipótesis ni el criterio de éxito (15%)**[cite: 6].
+
+---
+
+## Paso 8 – Ejecutar y registrar
+
+Durante los 5 días de la prueba, seguiremos estas reglas[cite: 6]:
+*   **Presentar
+## Paso 9 – Activar el loop de iteración o pivot
+
+Un experimento no debe repetirse solamente porque el resultado no fue favorable. Antes de insistir, el equipo debe identificar **qué dejó de funcionar como supuesto** y si otra prueba puede producir evidencia diferente.
+
+### Clasificación de resultados
+*   [ ] **Respaldada por esta prueba:** alcanzó el criterio definido.
+*   [ ] **No respaldada por esta prueba:** produjo evidencia válida, pero no alcanzó el criterio.
+*   [ ] **Inconclusa:** la ejecución o los datos no permiten comparar el resultado con el criterio.
+
+### Diagnóstico antes de cambiar
+*(A responder por el equipo tras finalizar la prueba)*
+1. ¿El experimento produjo evidencia válida? 
+2. ¿Falló el instrumento o quedó cuestionada la hipótesis? 
+3. ¿La métrica representaba realmente el comportamiento buscado? 
+4. ¿La muestra, el canal y el contexto fueron adecuados? 
+5. ¿Repetir exactamente la misma prueba produciría información nueva? 
+6. ¿Existe otro experimento más barato o directo para el mismo problema? 
+
+### Identificación de barreras (si el resultado es cero)
+*(Completar si hubo cero clics, cero aperturas o cero respuestas)*
+*   **Exposición:** ¿Las personas realmente recibieron o vieron el estímulo? (Próxima prueba: Verificar alcance o probar otro canal).
+*   **Comprensión:** ¿Entendieron qué se les proponía y qué podían hacer? (Próxima prueba: Prueba moderada de comprensión).
+*   **Confianza:** ¿El mensaje y el actor resultaron creíbles? (Próxima prueba: Wizard of Oz conversacional o prueba de credibilidad).
+*   **Interés:** ¿Comprendieron y confiaron, pero decidieron no actuar? (Próxima prueba: Probar otro mecanismo de valor para el mismo problema).
+
+### Nivel de cambio seleccionado
+*Seleccionar una opción según la situación encontrada:*
+*   [ ] **Corregir y repetir:** (Se cambia el instrumento). Situación: Error técnico, tarea confusa o medición defectuosa.
+*   [ ] **Iterar el experimento:** (Se cambia el método, muestra, canal o contexto). Situación: Evidencia insuficiente o contexto poco representativo.
+*   [ ] **Pivotar:** (Se cambia la hipótesis de valor, comportamiento, solución o mecanismo). Situación: Evidencia válida contradice la hipótesis probada.
+*   [ ] **Avanzar al siguiente experimento:** (Se cambia la incertidumbre prioritaria). Situación: Evidencia respalda la hipótesis.
+*   [ ] **Actualizar el Canvas:** (Se cambia el segmento o formulación del problema). Situación: Varias pruebas contradicen la existencia o relevancia del problema.
+
+---
+
+## Control de resolubilidad
+Un problema puede existir y ser relevante, pero no resultar abordable por el equipo dentro del alcance del laboratorio. Antes de forzar una solución, responder:
+
+1. ¿Podemos intervenir sobre alguna causa o consecuencia concreta? 
+2. ¿Tenemos acceso a los usuarios, actores, datos y permisos necesarios? 
+3. ¿Existe una intervención digital compatible con las restricciones del curso? 
+4. ¿Podemos probarla con el tiempo, capacidades y recursos disponibles? 
+
+### Salida seleccionada (si las respuestas son negativas):
+*El problema continúa respaldado, pero no es resoluble por este equipo dentro del alcance actual.*
+*   [ ] Cambiar el mecanismo
+*   [ ] Reducir el alcance
+*   [ ] Cambiar usuario o actor
+*   [ ] Pivotar el problema
+*   [ ] Cerrar el proyecto
+
+---
+
+## Cuándo dejar de insistir
+Detengan el experimento actual cuando:
+* alcanzó la cantidad de participantes, escenarios o ejecuciones acordada;
+* repite resultados sin agregar información nueva;
+* la métrica no representa el comportamiento buscado;
+* depende de condiciones que el equipo no puede obtener;
+* el costo de repetir supera el aprendizaje esperado;
+* otra prueba puede responder la pregunta de forma más directa o barata.
+
+---
+
+## Diseñar la siguiente prueba
+Para el próximo experimento se indicará:
+* qué supuesto específico pone a prueba;
+* qué cambia respecto del experimento anterior;
+* qué evidencia nueva podría producir;
+* tiempo, costo y dificultad;
+* qué resultado obligaría a revisar nuevamente la hipótesis.
+
+---
+
+## Registro obligatorio del loop
+
+```text
+## Iteración [NÚMERO]
+
+- Experimento anterior: 
+- Resultado: respaldada, no respaldada o inconclusa: 
+- Evidencia producida: 
+- Por qué no sirve seguir insistiendo de la misma manera: 
+- Supuesto que quedó cuestionado: 
+- Qué conservamos: 
+- Qué modificamos: 
+- Tipo de cambio: corrección, iteración o pivot: 
+- Próximo experimento: 
+- Qué evidencia diferente esperamos obtener: 
+- Nuevo contrato experimental:
+## Paso 10 – Limitar el loop
+
+El loop no significa experimentar indefinidamente durante la clase. Reglas de límite de tiempo y esfuerzo:
+*   Ejecuten una primera prueba completa.
+*   Si todavía hay tiempo y la siguiente prueba es pequeña, realicen una segunda vuelta.
+*   Si requiere nuevos participantes, datos o preparación, déjenla diseñada y lista para ejecutar.
+*   No agreguen funcionalidades para intentar salvar una solución que no produjo evidencia.
+*   No cambien simultáneamente hipótesis, segmento, canal, métrica e instrumento: después no podrán saber qué generó el nuevo resultado.
+
+### Explicación final (Cierre de la Clase 5)
+*La Clase 5 termina cuando el equipo puede explicar lo siguiente:*
+
+1. **¿Qué aprendió del experimento?**
+   [Respuesta a completar tras el experimento]
+2. **¿Por qué corresponde continuar o dejar de insistir?**
+   [Respuesta a completar tras el experimento]
+3. **¿Qué supuesto conserva?**
+   [Respuesta a completar tras el experimento]
+4. **¿Qué supuesto modifica?**
+   [Respuesta a completar tras el experimento]
+5. **¿Cuál es la siguiente prueba más barata?**
+   [Respuesta a completar tras el experimento]
+
+---
+
+## Entregables de la Clase 5
+
+1. **Instrumento funcional**
+   *Enlace:* [Pegar aquí el link a la landing page de Notion/Carrd]
+
+2. **diseno-experimento.md**
+   Documento actualizado que contiene evidencia de partida, contrato experimental, experimento elegido, partes reales y simuladas, alcance mínimo, protocolo y decisiones humanas (Corresponde a los Pasos 1 al 8 de este documento).
+
+3. **registro-experimento.md**
+   Documento que conserva resultados iniciales, mediciones, errores, anomalías, observaciones y evidencias complementarias (Se documentará durante los 5 días de prueba).
+
+4. **Registro de iteraciones y pivots**
+   Si el equipo corrige, itera o pivota, debe agregar al mismo registro:
+   * por qué dejó de insistir con el experimento anterior;
+   * qué supuesto quedó cuestionado;
+   * qué parte del problema y del Canvas conserva;
+   * qué cambió y en qué nivel;
+   * alternativas propuestas por la IA;
+   * decisión tomada por el equipo;
+   * contrato del siguiente experimento.
+   
+*(Nota: No creen un proyecto nuevo ni eliminen los resultados anteriores. El historial de iteraciones forma parte del entregable. La interpretación final se realizará en la Clase 6).*
+
+---
+
+## Criterios de revisión (Checklist del equipo)
+*Verificar antes de dar por terminada la tarea:*
+
+*   [ ] El experimento parte de evidencia de la Clase 4.
+*   [ ] Trabaja una sola incertidumbre relevante.
+*   [ ] Permite observar una acción o resultado.
+*   [ ] La métrica y el criterio se definieron antes de probar.
+*   [ ] El instrumento funciona de principio a fin.
+*   [ ] La medición queda registrada.
+*   [ ] Las simulaciones están identificadas.
+*   [ ] El alcance es mínimo.
+*   [ ] La IA propuso y construyó; el equipo evaluó y decidió.
+*   [ ] Los errores y resultados negativos se conservaron.
+*   [ ] El equipo distinguió entre corregir, iterar y pivotar.
+*   [ ] Si dejó de insistir, explicó por qué repetir no produciría información nueva.
+*   [ ] La siguiente prueba conserva el problema o justifica explícitamente su revisión.
+*   [ ] El historial de experimentos anteriores permanece visible.
+*   [ ] No se inventó evidencia.
+*   [ ] El resultado puede analizarse en la Clase 6.
+
+---
+
+### Cierre
+> La velocidad no surge de adivinar mejor. Surge de disminuir el costo de estar equivocados y aumentar la frecuencia con la que aprendemos.
+> 
+> **El mejor experimento no es el más impresionante. Es el que produce evidencia útil con la menor inversión.**
+
+Cada experimento termina. El aprendizaje continúa.
