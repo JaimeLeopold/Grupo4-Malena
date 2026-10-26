@@ -1,0 +1,28 @@
+# Nuestro primer MVP
+- Usuario y situación: Estudiante universitario argentino que quiere comprar ropa importada (ej. Zara traída de España) a un revendedor particular en Instagram para ahorrar frente al local oficial, pero no tiene medidas exactas en cm, fotos del estado real ni referencias del vendedor, y abandona si tardan en responderle.
+- Valor y acción central:
+  - Valor: Que decida comprar sin dudas sobre el calce y la confiabilidad del vendedor antes de pagar.
+  - Acción central: Ver la Ficha de Prenda Verificada (medidas planas en cm + comparador con prenda propia + ticket/estado + sello de vendedor alumno) y hacer clic en "Separar con seña".
+- Acceso o forma de ejecución: Archivo web autocontenido `index.html` en el repositorio de GitHub (se abre con doble clic en cualquier navegador o mediante GitHub Pages).
+- Recorrido: Inicio (selección de prenda en el catálogo del campus con aviso de "Datos de demostración") → Acción (revisión de medidas planas en cm, comparación opcional con prenda propia y clic en "Separar con seña") → Resultado (registro de solicitud con WhatsApp, código de reserva y confirmación de si necesitó o no pedir información adicional por mensaje).
+- Funciona / manual o simulado / fuera de alcance:
+  - Funciona ahora: Visualización de 3 fichas (2 verificadas y 1 incompleta que bloquea la seña por falta de datos), comparador interactivo de medidas en cm con validación de errores, formulario de reserva con validación de WhatsApp y contador en vivo de vistas, clics y reservas.
+  - Manual o simulado: "Datos de demostración" en el catálogo (stock, tickets y precios) y cobro de la seña (Fake Door: captura el WhatsApp para que el equipo coordine manualmente la reserva y entrega en el campus).
+  - Fuera de alcance: Pasarela de pago real (MercadoPago API / escrow), registro/login de usuarios, carrito de múltiples prendas y carga automática de stock.
+- Evidencia disponible y duda pendiente:
+  - Evidencia disponible: En la encuesta de Clase 4 (n=18), el 50% de los abandonos fue por causas operativas previas al pago (demora del vendedor, dudas de medidas/talle), y las entrevistas de Clase 2 (Sofía, Tomás y Valentina) mostraron que comparar medidas con ropa propia es clave antes de pagar. El experimento de Clase 5/6 quedó inconcluso (sin visitas ni clics registrados).
+  - Duda pendiente: Todavía no sabemos si la Ficha de Prenda Verificada logra que al menos el 15% de los visitantes únicos haga clic en "Separar con seña" sin pedir información extra por mensaje, ni si luego completarían la transferencia bancaria real.
+- Qué medimos: Usuarios que abren la ficha (intentan), hacen clic en "Separar con seña" y completan la reserva indicando que no necesitaron pedir información adicional por mensaje (resultado útil observado).
+
+## Prueba e iteración
+- Quién probó (rol) y tarea:
+  - Prueba interna del equipo en clase (y lista para correr con compañeros del segmento objetivo).
+  - Tarea: "Querés comprarte una campera o un jean importado de Zara ahorrando plata respecto al shopping. Entrá al enlace, revisá las prendas disponibles y fijate si con la información en pantalla te alcanza para reservar una con seña o qué harías".
+- Qué ocurrió y cómo lo sabemos:
+  - Al probar la primera versión, en la prenda #3 (sin medidas cargadas) no quedaba claro por qué no se podía avanzar, y al abrir el formulario de seña en las prendas #1 y #2 faltaba capturar explícitamente la métrica de la Clase 6 (si la persona se quedó con dudas que requerirían mandar un mensaje).
+- Devolución concreta que dimos a la IA:
+  - "Elegí la prenda #3 (sin medidas) y busqué el botón de señar. Esperaba ver el motivo del bloqueo, pero no explicaba qué dato faltaba. Además, al presionar 'Separar con seña' en la prenda #1, necesitamos que el formulario aclare que es una reserva manual sin cobro automático e incluya una pregunta para registrar si el usuario necesita o no pedir más datos por mensaje".
+- Cambio realizado y resultado de la nueva prueba:
+  - Se agregó la alerta roja de bloqueo por falta de datos en la prenda #3, la validación numérica en el comparador de medidas y el campo selector en el formulario de reserva para medir si la ficha evitó el ida y vuelta de mensajes. Se volvió a probar en los 3 casos y funcionó sin errores.
+- Próximo ajuste:
+  - Activar GitHub Pages en el repositorio, difundir el enlace durante 5 días a entre 30 y 50 estudiantes universitarios sin cambiar la hipótesis ni el umbral del 15%, y volcar los números reales en `registro-experimento.md`.
