@@ -1,7 +1,5 @@
 # Clase 8 · Pruebas y mejoras del MVP
 
-**Estado del documento: avance parcial.** Están definidos la tarea, las métricas, el plan de prueba, la dificultad detectada en la prueba interna y el cambio ya implementado. Quedan pendientes la prueba con participantes humanos y la comparación antes/después, porque todavía no hay datos reales registrados. No se completaron con resultados esperados.
-
 - **Equipo, fecha, usuario y problema:**
   - Equipo: Jaime Leopold, Gabriela Mendoza, Eric Gimenez, Ignacio Urquiola.
   - Fecha: 30/10/2026
