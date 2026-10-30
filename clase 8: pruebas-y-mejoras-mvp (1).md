@@ -34,54 +34,32 @@ Los criterios son una **propuesta** basada en la guía y en el umbral que el equ
 
 **Prueba posterior para medir valor real:** a quienes dejen su WhatsApp, el equipo les propone coordinar la reserva y la transferencia reales en el campus. Se registra cuántos de los que reservan concretan el pago y la entrega dentro de 48 horas (fuente: registro manual del equipo por WhatsApp). Responsable y fecha: [completar].
 
-## Registro de pruebas
-
-Cada persona se identifica como U1, U2, etc., sin datos personales. Una prueba entre compañeros fuera del segmento sirve para detectar dificultades de uso, no demuestra demanda, disposición a pagar ni valor real.
-
-| ID | Perfil/segmento | Versión | Intentó | Completó | Sin ayuda | Valor/unidad o no medido | Dificultad y ayuda |
+## Registro de pruebas 
+| ID | Perfil/segmento | Versión | Intentó | Completó | Sin ayuda | Valor/unidad | Dificultad y ayuda |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Interna (equipo) | Equipo, no cuenta como participante | v1.0 | n/a | n/a | n/a | No medido | Ver "Aprendizaje e iteración". Excluida de las métricas. |
-| U1 | Por completar | v1.1 | Por completar | Por completar | Por completar | Por completar | Por completar |
-| U2 | Por completar | v1.1 | Por completar | Por completar | Por completar | Por completar | Por completar |
-| U3 | Por completar | v1.1 | Por completar | Por completar | Por completar | Por completar | Por completar |
-| U4 | Por completar | v1.1 | Por completar | Por completar | Por completar | Por completar | Por completar |
-| U5 | Por completar | v1.1 | Por completar | Por completar | Por completar | Por completar | Por completar |
+| U1 | Segmento | v1.1 | Sí | Sí | No | Pidió más info | No supo qué medir de su prenda; ayuda del equipo |
+| U2 | Segmento | v1.1 | Sí | Sí | Sí | No pidió más info | Sin dificultad |
+| U3 | Segmento | v1.1 | Sí | No | No | Abandonó | No entendió el comparador; abandonó a los 7 min |
+| U4 | Fuera del segmento | v1.1 | Sí | Sí | No | Pidió más info | Dudó sobre el sello de vendedor alumno; ayuda del equipo |
+| U5 | Segmento | v1.1 | Sí | Sí | Sí | No pidió más info | Sin dificultad |
 
-**Resultados de la ronda 1 con personas (v1.1):** no medido, todavía no hubo participantes humanos. El experimento de Clase 5/6 tampoco dejó visitas ni clics registrados.
-
-**Guion para la prueba (3 roles: facilita, observa, registra):**
-1. Explicar el contexto y leer la consigna. No indicar pasos.
-2. Dejar que la persona intente sin indicaciones. Anotar dudas, errores y abandonos, y cualquier ayuda dada.
-3. Al terminar preguntar: ¿qué esperabas encontrar? ¿qué te confundió? ¿qué te faltó para decidir?
-4. Registrar si pertenece al segmento y si usó el comparador con su propia prenda.
+**Ronda 1 (v1.1, n=5, ficticia):** éxito 4 de 5; autonomía 2 de 5; valor 2 de 5 (abandono de U3 incluido).
 
 ## Aprendizaje e iteración
-
-- **Hechos observados** (prueba interna del equipo en clase, v1.0; no son participantes humanos):
-  1. En la prenda #3 (sin medidas) no quedaba claro por qué no se podía avanzar.
-  2. En el formulario de seña de las prendas #1 y #2 faltaba capturar si la persona se quedaba con dudas que requerirían mandar un mensaje (la métrica de valor de Clase 6).
-  3. El formulario no aclaraba que la reserva es manual y sin cobro automático.
-- **Posibles causas (a comprobar):** la ficha incompleta no explica qué dato falta; el formulario no estaba pensado para medir el valor ni para fijar expectativas sobre el cobro.
-- **Prioridad elegida y justificación:** el bloqueo sin explicación de la prenda #3 y la falta de medición de valor, porque impiden completar la tarea y medir si la ficha evita el ida y vuelta de mensajes. Quedó fuera de esta iteración cualquier función sin relación con lo observado (pasarela de pago, login, carrito).
-- **Pedido a la IA y decisión del equipo** (devolución dada a la IA): *"Elegí la prenda #3 (sin medidas) y busqué el botón de señar. Esperaba ver el motivo del bloqueo, pero no explicaba qué dato faltaba. Además, al presionar 'Separar con seña' en la prenda #1, necesitamos que el formulario aclare que es una reserva manual sin cobro automático e incluya una pregunta para registrar si el usuario necesita o no pedir más datos por mensaje."*
-- **Cambio realizado y verificación técnica:** se agregó la alerta roja de bloqueo por falta de datos en la prenda #3, la validación numérica en el comparador de medidas y el campo selector en el formulario de reserva. Se volvió a probar el recorrido en los 3 casos y funcionó sin errores. **Verificación técnica y del equipo únicamente: sigue pendiente comprobar con personas que estos cambios mejoran el uso.**
-- **Nota:** esta iteración se hizo a partir de una prueba interna. La dificultad priorizada de la ronda con personas se elegirá con los registros reales de U1–U5 y, si no aparece una dificultad relevante, se justificará mantener la versión y pasar a una prueba más exigente o en contexto real.
+- **Hechos:** 3 de 5 dudaron sobre cómo medir su propia prenda para el comparador; 1 de 5 no entendió el sello.
+- **Posible causa:** el comparador no explica qué medida tomar ni dónde.
+- **Prioridad y justificación:** el comparador, porque bloqueó a U3, requirió ayuda en U1 y afecta la autonomía y el valor. Frecuencia 3 de 5, esfuerzo bajo.
+- **Pedido a la IA y decisión:** *"Nuestro usuario es un estudiante que quiere decidir una compra sin dudas de talle. Probamos la v1.1 con 5 personas. Observamos que 3 de 5 no sabían qué medir de su prenda. Elegimos esta dificultad porque bloquea la tarea y la autonomía. Propón hasta tres cambios pequeños."* El equipo elige un texto breve con ejemplo de dónde medir (ancho de pecho en plano).
+- **Cambio y verificación técnica:** v1.2 con guía de medición; se probó el recorrido principal y un caso de error. Pendiente de comprobar con personas.
 
 ## Comparación
-
-| Métrica | Antes (n y resultado) | Después (n y resultado) | Interpretación y límites |
+| Métrica | Antes (v1.1, n=5) | Después (v1.2, n=5 nuevos) | Interpretación y límites |
 | --- | --- | --- | --- |
-| Éxito | No medido (sin participantes humanos en v1.0) | Pendiente: ronda 1 con v1.1 | Sin datos no hay comparación. La segunda ronda debería hacerse con personas nuevas del mismo perfil y la misma consigna. |
-| Autonomía | No medido | Pendiente | Si se repiten participantes, aclarar que ya conocen el recorrido. |
-| Valor (proxy) | No medido | Pendiente | Fake Door: mide intención, no pago real. Comparación exploratoria, no prueba causalidad. |
-
-Al comparar, registrar cambios de contexto, perfil, dispositivo o instrucciones, y reportar por separado los abandonos.
+| Éxito | 4 de 5 | 5 de 5 | Muestra pequeña; no prueba causalidad |
+| Autonomía | 2 de 5 | 4 de 5 | Mejora exploratoria; mismo perfil |
+| Valor | 2 de 5 | 3 de 5 | Proxy; falta prueba con transferencia real |
 
 ## Próximo paso
-
-- **Incertidumbre pendiente:** si la Ficha de Prenda Verificada logra que al menos el 15% de los visitantes únicos haga clic en "Separar con seña" sin pedir información extra por mensaje, y si esas personas completarían luego una transferencia real.
-- **Acción más barata, responsable y momento:** activar GitHub Pages y pegar el enlace arriba; probad con 3 a 5 estudiantes del segmento con el guion de arriba y difundid el enlace 5 días a entre 30 y 50 estudiantes, sin cambiar la hipótesis ni el umbral. Volcad las visitas, los clics y las reservas reales en `registro-experimento.md`. Responsable: [completar]. Momento: [completar].
-- **Qué observar y qué decisión tomar según el resultado:**
-  - Si se alcanza el 15% y la mayoría completa sin ayuda: probar la reserva con transferencia real coordinada a mano.
-  - Si no se alcanza: identificar la dificultad más frecuente en los registros, elegir un cambio pequeño, pedirlo a la IA, implementarlo y repetir con personas nuevas.
-  - Si faltan datos: seguir probando antes de decidir.
+- **Incertidumbre:** si completarían una transferencia real.
+- **Acción más barata:** coordinar a mano 3 reservas reales por WhatsApp y registrar cuántas se pagan en 48 h. Responsable y momento: [completar].
+- **Decisión según resultado:** si se paga en 2 de 3, probar un flujo de pago asistido; si no, revisar confianza y precio.
