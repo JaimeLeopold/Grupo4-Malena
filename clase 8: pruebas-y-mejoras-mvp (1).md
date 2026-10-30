@@ -3,7 +3,7 @@
 **Estado del documento: avance parcial.** Están definidos la tarea, las métricas, el plan de prueba, la dificultad detectada en la prueba interna y el cambio ya implementado. Quedan pendientes la prueba con participantes humanos y la comparación antes/después, porque todavía no hay datos reales registrados. No se completaron con resultados esperados.
 
 - **Equipo, fecha, usuario y problema:**
-  - Equipo: [completar nombres de integrantes]
+  - Equipo: Jaime Leopold, Gabriela Mendoza, Eric Gimenez, Ignacio Urquiola.
   - Fecha: 30/10/2026
   - Usuario: estudiante universitario argentino que compra ropa importada (ej. Zara traída de España) a un revendedor particular por Instagram para ahorrar frente al local oficial.
   - Problema: quiere comprar pero no tiene medidas exactas en cm, fotos del estado real ni referencias del vendedor, y abandona si tardan en responderle. En la encuesta de Clase 4 (n=18), el 50% de los abandonos fue por causas operativas previas al pago (demora del vendedor, dudas de medidas/talle). Las entrevistas de Clase 2 (Sofía, Tomás y Valentina) mostraron que comparar medidas con ropa propia es clave antes de pagar.
