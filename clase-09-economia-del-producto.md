@@ -1,6 +1,6 @@
 # Economía del producto — SeñaSegura
 
-- **Fecha, moneda y período:** 01/11/2026 · pesos argentinos (ARS) · por operación (prenda reservada, pagada y entregada en el campus).
+- **Fecha, moneda y período:** 19/10/2026 · pesos argentinos (ARS) · por operación (prenda reservada, pagada y entregada en el campus).
 - **Usuario, valor y evidencia disponible:** estudiante universitario que compra ropa importada a revendedores por Instagram. Valor: decidir la compra sin dudas de calce ni de confiabilidad del vendedor (Ficha de Prenda Verificada + reserva con seña). Evidencia: encuesta Clase 4 (n=18, 50 % de abandonos por demora o dudas de talle), entrevistas Clase 2 y ronda ficticia de Clase 8 (v1.2: éxito 5 de 5, autonomía 4 de 5, valor proxy 3 de 5). **No hay evidencia de pago:** el cobro de la seña es un Fake Door.
 - **Quién pagaría/financiaría y por qué (hipótesis):** el **revendedor alumno**, con una comisión por venta concretada, porque la ficha le ahorra mensajes repetidos y reduce abandonos antes del pago. El comprador usa y recibe valor, pero no paga en esta hipótesis (ya busca ahorrar respecto del shopping). Que alguien haya reservado en el MVP no demuestra que el vendedor pagaría.
 - **Unidad económica:** una operación concretada (seña cobrada + prenda entregada). El ingreso propio es la comisión, **no** el precio de la prenda.
@@ -38,4 +38,4 @@
 - **Prueba, con quién, acción observable y registro:** ofrecer a 5 revendedores del campus publicar 1 prenda con Ficha Verificada pagando la comisión solo si se vende. Acción observable: (1) aceptan y envían los datos de la prenda; (2) tras la venta, transfieren la comisión. Se combina con la prueba ya planificada en Clase 8 (3 reservas reales por WhatsApp), donde además se registran los minutos reales por operación. Registro: planilla manual del equipo (vendedor, aceptó sí/no, prenda, precio, vendió sí/no, pagó comisión sí/no, minutos invertidos).
 - **Qué no demostraría:** que el 5 % sea el precio óptimo ni que se sostenga con más volumen; un "sí, me interesa" sin transferencia no cuenta como pago.
 - **Criterio previo y decisión:** si al menos 3 de 5 aceptan **y** al menos 1 paga efectivamente la comisión, mantenemos al vendedor como pagador y medimos tiempo con más operaciones. Si aceptan pero nadie paga, probamos un cargo fijo por publicación o un fee al comprador. Si menos de 3 aceptan, revisamos quién paga antes de seguir construyendo.
-- **Responsable y fecha:** [completar responsable del equipo] · propuesta: resultados al 15/11/2026.
+- **Responsable y fecha:**  Eric, Gabriela, Jaime e Ignacio a 23/10/2026.
